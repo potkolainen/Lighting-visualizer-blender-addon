@@ -1,0 +1,96 @@
+# Manufacturer | Fixture   (matched by words against GDTF Share; see tools/gdtf_share.py)
+# "## Name" sets the library category. Fixtures from the requested list that GDTF Share does not carry are left out on
+# purpose rather than replaced: Clay Paky Mythos 2 (only the original Mythos exists), ETC Source Four conventional,
+# Robert Juliat 714SX / 310H / 329H / followspots, Strand Cantata/Quartet, Selecon Rama, Lycian, Strong, Altman,
+# Martin Atomic Colors, Astera AX7, Chauvet Colorado 2 Batten, PAR 56, UV blacklight, footlight, groundrow, molefay.
+## Moving Heads
+Clay Paky | Mini-B
+Clay Paky | Sharpy
+Robe | MegaPointe
+Robe | Pointe
+Robe | BMFL Spot
+Robe | Spiider
+Robe | LEDBeam 150
+Robe | T1 Profile
+Robe | T2 Profile
+Martin | MAC Aura
+Martin | MAC Viper Profile
+Martin | MAC Quantum Wash
+Martin | MAC Ultra Performance
+Martin | ERA 600
+Ayrton | Diablo
+Ayrton | Perseo
+GLP | impression X4
+GLP | impression X5
+Chauvet | Maverick Storm
+High End Systems | Lonestar
+## Theatre Profiles
+ETC | S4 Series 3 Lustr X8 19Deg
+ETC | S4 Series 3 Lustr X8 26Deg
+ETC | S4 Series 3 Lustr X8 36Deg
+ETC | S4 Series 3 Lustr X8 50Deg
+ETC | S4 Series 2 Lustr
+Robert Juliat | 614 Sx
+Robert Juliat | Dalis 860
+Robert Juliat | Dalis 862
+Philips Selecon | PLProfile1
+## Fresnel / PC
+Philips Selecon | PLFresnel1
+Selecon | Pacific 23-50
+ADB | C201
+ETC | Colorsource V Fresnel
+ETC | Fos/4 Fresnel 7 in Lustr X8
+## PAR / LED PAR
+Generic | PAR 64 VNSP (CP60)
+Generic | PAR 64 NSP (CP61)
+Generic | PAR 64 MFL (CP62)
+Chauvet | Colorado 1 Solo
+Chauvet | Colorado 2 Solo
+Martin | RUSH PAR 2
+Prolights | StudioCobPlusFC2_18
+Prolights | StudioCobPlusDY2_37
+ETC | ColorSource PAR Pearl
+## LED Wash / Bar / Strip
+Robe | LEDWash 600
+Robe | LEDWash 800
+Robe | CycBar 15
+Robe | Tetra2
+GLP | X4 Bar 20
+GLP | X4 Bar 10
+Chauvet | Colorado Batten 72X
+ETC | ColorSource Linear1
+ETC | Colorsource CYC
+Martin | VDO Sceptron
+Martin | VDO Atomic Dot WRM
+Showtec | Pixel Bar
+## Strobe / Blinder / Effect
+Martin | Atomic 3000 LED
+GLP | JDC1
+GLP | JDC2
+Robe | Tarrantula
+Chauvet | Strike 4
+ETC | Desire D40
+Showtec | Sunstrip Active
+## Wireless / Battery
+Ape Labs | ApeLight maxi
+Ape Labs | ApeLight mini
+Ape Labs | ApeCoin
+Ape Labs | ApeStick 4
+Ape Labs | LightCan
+Ape Labs | Mini v2
+Ape Labs | Mini v2 Tube
+Ape Labs | MARVEL Flood
+Ape Labs | MARVEL Spot
+Ape Labs | Neon Tube
+Ape Labs | Neon Tube PIX
+Astera | Titan Tube
+Astera | Helios Tube
+Astera | AX1
+Astera | AX2
+Astera | AX3
+Astera | AX5
+Astera | AX9
+Astera | NYX Bulb
+## Other Theatre
+ETC | ColorSource Spot
+ETC | ColorSource Spot Jr

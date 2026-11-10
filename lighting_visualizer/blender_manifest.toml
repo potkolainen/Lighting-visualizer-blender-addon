@@ -1,0 +1,26 @@
+schema_version = "1.0.0"
+
+id = "lighting_visualizer"
+version = "0.2.0"
+name = "Lighting Visualizer"
+tagline = "Lighting fixtures, sACN / Art-Net input, GDTF and MVR"
+maintainer = "Pötkö"
+type = "add-on"
+website = "https://github.com/potkolainen/Lighting-visualizer-blender-addon"
+support = "https://github.com/potkolainen/Lighting-visualizer-blender-addon/issues"
+blender_version_min = "4.2.0"
+license = ["SPDX:GPL-3.0-or-later"]
+tags = ["Lighting", "Import-Export"]
+
+wheels = [
+  "./wheels/psutil-7.2.2-cp36-abi3-macosx_10_9_x86_64.whl",
+  "./wheels/psutil-7.2.2-cp36-abi3-macosx_11_0_arm64.whl",
+  "./wheels/psutil-7.2.2-cp36-abi3-manylinux2010_x86_64.manylinux_2_12_x86_64.manylinux_2_28_x86_64.whl",
+  "./wheels/psutil-7.2.2-cp36-abi3-manylinux2014_aarch64.manylinux_2_17_aarch64.manylinux_2_28_aarch64.whl",
+  "./wheels/psutil-7.2.2-cp37-abi3-win_amd64.whl",
+  "./wheels/psutil-7.2.2-cp37-abi3-win_arm64.whl",
+]
+
+[permissions]
+network = "Receive sACN / Art-Net from a lighting console"
+files = "Import / export GDTF, MVR and models; store the fixture library"

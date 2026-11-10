@@ -1,0 +1,4851 @@
+{
+ "Clay_Paky_Mini-B_168530.gdtf": {
+  "rid": 168530,
+  "uuid": "34C218E4-1279-4182-AA8F-02505F2BA74B",
+  "manufacturer": "Clay Paky",
+  "fixture": "Mini-B",
+  "revision": "ClayPaky Official File Fw Ver 2_6",
+  "uploader": "Manuf.",
+  "version": "1.2",
+  "lastModified": 1794230018,
+  "filesize": 610393,
+  "modes": [
+   {
+    "name": "Basic RGBW ",
+    "dmxfootprint": 17
+   },
+   {
+    "name": "Basic RGBW 16bit ",
+    "dmxfootprint": 21
+   },
+   {
+    "name": "Extended RGBW",
+    "dmxfootprint": 21
+   },
+   {
+    "name": "Extended RGBW16bit",
+    "dmxfootprint": 29
+   }
+  ],
+  "wanted": "Clay Paky | Mini-B",
+  "category": "Moving Heads"
+ },
+ "Clay_Paky_Sharpy_75541.gdtf": {
+  "rid": 75541,
+  "uuid": "FB81889F-1992-4A7B-9CCB-414BE4A033B5",
+  "manufacturer": "Clay Paky",
+  "fixture": "Sharpy",
+  "revision": "ClayPaky Official File Fw Ver 2_25_006",
+  "uploader": "Manuf.",
+  "version": "1.2",
+  "lastModified": 1793789737,
+  "filesize": 918844,
+  "modes": [
+   {
+    "name": "Standard",
+    "dmxfootprint": 16
+   },
+   {
+    "name": "Vector",
+    "dmxfootprint": 20
+   }
+  ],
+  "wanted": "Clay Paky | Sharpy",
+  "category": "Moving Heads"
+ },
+ "Robe_Lighting_Robin_MegaPointe_138392.gdtf": {
+  "rid": 138392,
+  "uuid": "E3BD5003-C35C-4C69-AD69-E63ECF0FFB6B",
+  "manufacturer": "Robe Lighting",
+  "fixture": "Robin MegaPointe",
+  "revision": "2026-04-13 Shutter channel sets revision",
+  "uploader": "Manuf.",
+  "version": "1.2",
+  "lastModified": 1788789314,
+  "filesize": 3049526,
+  "modes": [
+   {
+    "name": "Mode 1 - Standard 16 - bit",
+    "dmxfootprint": 39
+   },
+   {
+    "name": "Mode 2 - Reduced 8 - bit",
+    "dmxfootprint": 34
+   }
+  ],
+  "wanted": "Robe | MegaPointe",
+  "category": "Moving Heads"
+ },
+ "Robe_Lighting_Robin_Pointe_62324.gdtf": {
+  "rid": 62324,
+  "uuid": "3C217CA1-DD2C-462C-9C6D-9ECA7E3B9E5B",
+  "manufacturer": "Robe Lighting",
+  "fixture": "Robin Pointe",
+  "revision": "2024-04-22  Gobos revision",
+  "uploader": "Manuf.",
+  "version": "1.2",
+  "lastModified": 1782289691,
+  "filesize": 2232287,
+  "modes": [
+   {
+    "name": "Mode 1 - Standard 16bit",
+    "dmxfootprint": 24
+   },
+   {
+    "name": "Mode 2 - Reduced 8bit",
+    "dmxfootprint": 16
+   },
+   {
+    "name": "Mode 3 - Extended 16bit",
+    "dmxfootprint": 30
+   }
+  ],
+  "wanted": "Robe | Pointe",
+  "category": "Moving Heads"
+ },
+ "Robe_Lighting_Robin_BMFL_Spot_135703.gdtf": {
+  "rid": 135703,
+  "uuid": "1FE500B2-6CDC-40DD-AC68-20A47694FF2F",
+  "manufacturer": "Robe Lighting",
+  "fixture": "Robin BMFL Spot",
+  "revision": "2026-03-27 Color macro open slot revision",
+  "uploader": "Manuf.",
+  "version": "1.2",
+  "lastModified": 1789035352,
+  "filesize": 3838242,
+  "modes": [
+   {
+    "name": "Mode 1 - Standard 16 bit",
+    "dmxfootprint": 41
+   },
+   {
+    "name": "Mode 2 - Reduced 8 bit ",
+    "dmxfootprint": 33
+   }
+  ],
+  "wanted": "Robe | BMFL Spot",
+  "category": "Moving Heads"
+ },
+ "Robe_Lighting_Robin_Spiider_119729.gdtf": {
+  "rid": 119729,
+  "uuid": "FF00403F-EEDC-4E89-8FF2-CD5976365896",
+  "manufacturer": "Robe Lighting",
+  "fixture": "Robin Spiider",
+  "revision": "2025-12-03  Reupload to share",
+  "uploader": "Manuf.",
+  "version": "1.2",
+  "lastModified": 1792764333,
+  "filesize": 1968113,
+  "modes": [
+   {
+    "name": "Mode 10 - Pattern full RGBW",
+    "dmxfootprint": 123
+   },
+   {
+    "name": "Mode 9 - Pattern full RGB",
+    "dmxfootprint": 104
+   },
+   {
+    "name": "Mode 8 - Pixel RGBW ",
+    "dmxfootprint": 110
+   },
+   {
+    "name": "Mode 7 - Pixel RGB",
+    "dmxfootprint": 91
+   },
+   {
+    "name": "Mode 6 - Pattern",
+    "dmxfootprint": 47
+   },
+   {
+    "name": "Mode 5 - Wash",
+    "dmxfootprint": 27
+   },
+   {
+    "name": "Mode 1 - Zones",
+    "dmxfootprint": 49
+   },
+   {
+    "name": "Mode 2 - Basic",
+    "dmxfootprint": 27
+   },
+   {
+    "name": "Mode 3 - Advanced",
+    "dmxfootprint": 33
+   },
+   {
+    "name": "Mode 4 - Full RGBW",
+    "dmxfootprint": 90
+   }
+  ],
+  "wanted": "Robe | Spiider",
+  "category": "Moving Heads"
+ },
+ "Robe_Lighting_Robin_LEDBeam_150_RGBW_143814.gdtf": {
+  "rid": 143814,
+  "uuid": "D1380BEC-6A50-4023-AA33-A5BFF7629E59",
+  "manufacturer": "Robe Lighting",
+  "fixture": "Robin LEDBeam 150 RGBW",
+  "revision": "2026-05-22 Control channel update",
+  "uploader": "Manuf.",
+  "version": "1.2",
+  "lastModified": 1784880315,
+  "filesize": 747469,
+  "modes": [
+   {
+    "name": "Mode 1 - Standard 16 - bit",
+    "dmxfootprint": 22
+   },
+   {
+    "name": "Mode 2 - Reduced 8 - bit",
+    "dmxfootprint": 16
+   }
+  ],
+  "wanted": "Robe | LEDBeam 150",
+  "category": "Moving Heads"
+ },
+ "Robe_Lighting_Robin_T1_Profile_FS_151547.gdtf": {
+  "rid": 151547,
+  "uuid": "4CE2C7A5-25E5-40FB-8769-56A4EF387700",
+  "manufacturer": "Robe Lighting",
+  "fixture": "Robin T1 Profile FS",
+  "revision": "2026-07-20  Color Control channel update",
+  "uploader": "Manuf.",
+  "version": "1.2",
+  "lastModified": 1784550507,
+  "filesize": 4051624,
+  "modes": [
+   {
+    "name": "Mode 1 - CMY",
+    "dmxfootprint": 49
+   },
+   {
+    "name": "Mode 1 - RGB",
+    "dmxfootprint": 49
+   },
+   {
+    "name": "Mode 2 - Reduced CMY",
+    "dmxfootprint": 33
+   },
+   {
+    "name": "Mode 2 - Reduced RGB",
+    "dmxfootprint": 33
+   },
+   {
+    "name": "Mode 3 - RGBAL",
+    "dmxfootprint": 53
+   }
+  ],
+  "wanted": "Robe | T1 Profile",
+  "category": "Moving Heads"
+ },
+ "Robe_Lighting_Robin_T2_Profile_FS_151631.gdtf": {
+  "rid": 151631,
+  "uuid": "47F6ED03-FE40-4071-AD93-701CECDA21FF",
+  "manufacturer": "Robe Lighting",
+  "fixture": "Robin T2 Profile FS",
+  "revision": "2026-07-21 Color control channel update",
+  "uploader": "Manuf.",
+  "version": "1.2",
+  "lastModified": 1784609187,
+  "filesize": 5350691,
+  "modes": [
+   {
+    "name": "Mode 1 - CMY",
+    "dmxfootprint": 52
+   },
+   {
+    "name": "Mode 1 - RGB",
+    "dmxfootprint": 52
+   },
+   {
+    "name": "Mode 2 - Reduced CMY",
+    "dmxfootprint": 36
+   },
+   {
+    "name": "Mode 2 - Reduced RGB",
+    "dmxfootprint": 36
+   },
+   {
+    "name": "Mode 3 - RGBALG",
+    "dmxfootprint": 56
+   }
+  ],
+  "wanted": "Robe | T2 Profile",
+  "category": "Moving Heads"
+ },
+ "Martin_Professional_MAC_Aura_40783.gdtf": {
+  "rid": 40783,
+  "uuid": "3C42E48F-9781-45EF-8D4D-D39CAE915133",
+  "manufacturer": "Martin Professional",
+  "fixture": "MAC Aura",
+  "revision": "20230201NoMeas",
+  "uploader": "Manuf.",
+  "version": "1.2",
+  "lastModified": 1792446266,
+  "filesize": 1021619,
+  "modes": [
+   {
+    "name": "Standard",
+    "dmxfootprint": 14
+   },
+   {
+    "name": "Extended",
+    "dmxfootprint": 25
+   }
+  ],
+  "wanted": "Martin | MAC Aura",
+  "category": "Moving Heads"
+ },
+ "Martin_Professional_MAC_Viper_Profile_146138.gdtf": {
+  "rid": 146138,
+  "uuid": "00000000-EA4A-0000-BC47-3E4FBB861C6E",
+  "manufacturer": "Martin Professional",
+  "fixture": "MAC Viper Profile",
+  "revision": "20230516NoMeas",
+  "uploader": "Manuf.",
+  "version": "1.2",
+  "lastModified": 1781020656,
+  "filesize": 1172241,
+  "modes": [
+   {
+    "name": "Basic",
+    "dmxfootprint": 26
+   },
+   {
+    "name": "Extended",
+    "dmxfootprint": 34
+   }
+  ],
+  "wanted": "Martin | MAC Viper Profile",
+  "category": "Moving Heads"
+ },
+ "Martin_Professional_MAC_Quantum_Wash_37128.gdtf": {
+  "rid": 37128,
+  "uuid": "DF4973F2-4C59-4275-B7C7-D94164C43FBD",
+  "manufacturer": "Martin Professional",
+  "fixture": "MAC Quantum Wash",
+  "revision": "20230316NoMeas",
+  "uploader": "Manuf.",
+  "version": "1.2",
+  "lastModified": 1786658334,
+  "filesize": 1085785,
+  "modes": [
+   {
+    "name": "Basic",
+    "dmxfootprint": 17
+   },
+   {
+    "name": "Extended",
+    "dmxfootprint": 33
+   }
+  ],
+  "wanted": "Martin | MAC Quantum Wash",
+  "category": "Moving Heads"
+ },
+ "Martin_Professional_MAC_Ultra_Performance_160218.gdtf": {
+  "rid": 160218,
+  "uuid": "EB46F8DF-374F-4A1A-9C80-C1FA8C3F61A0",
+  "manufacturer": "Martin Professional",
+  "fixture": "MAC Ultra Performance",
+  "revision": "20260914",
+  "uploader": "Manuf.",
+  "version": "1.2",
+  "lastModified": 1789399149,
+  "filesize": 1916073,
+  "modes": [
+   {
+    "name": "Basic",
+    "dmxfootprint": 48
+   },
+   {
+    "name": "Extended",
+    "dmxfootprint": 58
+   },
+   {
+    "name": "Compact",
+    "dmxfootprint": 42
+   }
+  ],
+  "wanted": "Martin | MAC Ultra Performance",
+  "category": "Moving Heads"
+ },
+ "Martin_Professional_ERA_600_Performance_35506.gdtf": {
+  "rid": 35506,
+  "uuid": "AA1A0BA2-68CB-4A35-8435-CE35C94156CF",
+  "manufacturer": "Martin Professional",
+  "fixture": "ERA 600 Performance",
+  "revision": "20230226",
+  "uploader": "Manuf.",
+  "version": "1.2",
+  "lastModified": 1769003246,
+  "filesize": 1580192,
+  "modes": [
+   {
+    "name": "Basic",
+    "dmxfootprint": 41
+   }
+  ],
+  "wanted": "Martin | ERA 600",
+  "category": "Moving Heads"
+ },
+ "Ayrton_Diablo_159108.gdtf": {
+  "rid": 159108,
+  "uuid": "DCE7AA4F-2147-4B6A-9607-15A09D692A6F",
+  "manufacturer": "Ayrton",
+  "fixture": "Diablo",
+  "revision": "V2.61 Add_Emitter_Dimmer",
+  "uploader": "Manuf.",
+  "version": "1.2",
+  "lastModified": 1788852955,
+  "filesize": 2245615,
+  "modes": [
+   {
+    "name": "Extended_540_S",
+    "dmxfootprint": 56
+   },
+   {
+    "name": "Standard_540_S",
+    "dmxfootprint": 36
+   },
+   {
+    "name": "Basic_540_S",
+    "dmxfootprint": 34
+   }
+  ],
+  "wanted": "Ayrton | Diablo",
+  "category": "Moving Heads"
+ },
+ "Ayrton_Perseo_BEAM_159119.gdtf": {
+  "rid": 159119,
+  "uuid": "189F927F-F925-409C-87A9-07FC2B10F297",
+  "manufacturer": "Ayrton",
+  "fixture": "Perseo BEAM",
+  "revision": "V1.51 Add_Emitter_Dimmer",
+  "uploader": "Manuf.",
+  "version": "1.2",
+  "lastModified": 1788855295,
+  "filesize": 2995217,
+  "modes": [
+   {
+    "name": "Extended_540",
+    "dmxfootprint": 42
+   },
+   {
+    "name": "Standard_540",
+    "dmxfootprint": 31
+   },
+   {
+    "name": "Basic_540",
+    "dmxfootprint": 29
+   }
+  ],
+  "wanted": "Ayrton | Perseo",
+  "category": "Moving Heads"
+ },
+ "GLP_impression_X4_38859.gdtf": {
+  "rid": 38859,
+  "uuid": "26221110-16BC-4216-B9D6-67881CF7C962",
+  "manufacturer": "GLP",
+  "fixture": "impression X4",
+  "revision": "20230421-1 NoMeas",
+  "uploader": "Manuf.",
+  "version": "1.2",
+  "lastModified": 1785891170,
+  "filesize": 646302,
+  "modes": [
+   {
+    "name": "Normal M 20Ch",
+    "dmxfootprint": 20
+   },
+   {
+    "name": "Compress Mode 14Ch",
+    "dmxfootprint": 14
+   },
+   {
+    "name": "Normal M 20Ch ",
+    "dmxfootprint": 21
+   }
+  ],
+  "wanted": "GLP | impression X4",
+  "category": "Moving Heads"
+ },
+ "GLP_impression_X5_150111.gdtf": {
+  "rid": 150111,
+  "uuid": "878E1952-E3A4-42D8-9A3C-B0548B2AC7AC",
+  "manufacturer": "GLP",
+  "fixture": "impression X5",
+  "revision": "20260708_X5_byGLP_prelim04",
+  "uploader": "Manuf.",
+  "version": "1.2",
+  "lastModified": 1793704659,
+  "filesize": 1807730,
+  "modes": [
+   {
+    "name": "Mode 1 Basic RGBL (24ch)",
+    "dmxfootprint": 24
+   },
+   {
+    "name": "Mode 1 Basic RGB (24ch)",
+    "dmxfootprint": 24
+   },
+   {
+    "name": "Mode 2 Normal RGBL (35ch)",
+    "dmxfootprint": 35
+   },
+   {
+    "name": "Mode 2 Normal RGB (35ch)",
+    "dmxfootprint": 35
+   },
+   {
+    "name": "Mode 3 Segments RGBL (41ch)",
+    "dmxfootprint": 41
+   },
+   {
+    "name": "Mode 3 Segments RGB (41ch)",
+    "dmxfootprint": 41
+   },
+   {
+    "name": "Mode 4 Mulipix Advanced RGBL (89ch)",
+    "dmxfootprint": 89
+   },
+   {
+    "name": "Mode 4 Mulipix Advanced RGB (89ch)",
+    "dmxfootprint": 89
+   },
+   {
+    "name": "Mode 5 Mulipix Compressed RGB (71ch)",
+    "dmxfootprint": 70
+   },
+   {
+    "name": "Mode 6 Mulipix Compressed RGBL (89ch)",
+    "dmxfootprint": 89
+   }
+  ],
+  "wanted": "GLP | impression X5",
+  "category": "Moving Heads"
+ },
+ "Chauvet_Professional_Maverick_Storm_3_Profile_168083.gdtf": {
+  "rid": 168083,
+  "uuid": "C9F2EB69-8EC6-45D7-96B1-A100408D71A6",
+  "manufacturer": "Chauvet Professional",
+  "fixture": "Maverick Storm 3 Profile",
+  "revision": "Rev 1.0.1",
+  "uploader": "Manuf.",
+  "version": "1.2",
+  "lastModified": 1793916998,
+  "filesize": 1510306,
+  "modes": [
+   {
+    "name": "50Ch Mode",
+    "dmxfootprint": 50
+   },
+   {
+    "name": "34Ch Mode",
+    "dmxfootprint": 34
+   }
+  ],
+  "wanted": "Chauvet | Maverick Storm",
+  "category": "Moving Heads"
+ },
+ "High_End_Systems_Lonestar_62500.gdtf": {
+  "rid": 62500,
+  "uuid": "A9EFFBB3-BDCE-4EAE-851F-8ABEA28FAB4C",
+  "manufacturer": "High End Systems",
+  "fixture": "Lonestar",
+  "revision": "v1.6.4",
+  "uploader": "Manuf.",
+  "version": "1.2",
+  "lastModified": 1793480141,
+  "filesize": 3650152,
+  "modes": [
+   {
+    "name": "Standard",
+    "dmxfootprint": 48
+   },
+   {
+    "name": "Trifusion",
+    "dmxfootprint": 48
+   }
+  ],
+  "wanted": "High End Systems | Lonestar",
+  "category": "Moving Heads"
+ },
+ "ETC_S4_Series_3_Lustr_X8_19Deg_61818.gdtf": {
+  "rid": 61818,
+  "uuid": "36308CAB-B49B-4168-A5FB-124E719C2EC1",
+  "manufacturer": "ETC",
+  "fixture": "S4 Series 3 Lustr X8 19Deg",
+  "revision": "v1.3.0",
+  "uploader": "Manuf.",
+  "version": "1.2",
+  "lastModified": 1769003392,
+  "filesize": 1404378,
+  "modes": [
+   {
+    "name": "Direct",
+    "dmxfootprint": 12
+   },
+   {
+    "name": "Expanded",
+    "dmxfootprint": 11
+   },
+   {
+    "name": "Studio",
+    "dmxfootprint": 7
+   },
+   {
+    "name": "3ch RGB",
+    "dmxfootprint": 3
+   },
+   {
+    "name": "1ch",
+    "dmxfootprint": 1
+   },
+   {
+    "name": "HSIC",
+    "dmxfootprint": 8
+   }
+  ],
+  "wanted": "ETC | S4 Series 3 Lustr X8 19Deg",
+  "category": "Theatre Profiles"
+ },
+ "ETC_S4_Series_3_Lustr_X8_26Deg_61817.gdtf": {
+  "rid": 61817,
+  "uuid": "BA1FA254-B49E-487A-97B7-021C22563B87",
+  "manufacturer": "ETC",
+  "fixture": "S4 Series 3 Lustr X8 26Deg",
+  "revision": "v1.3.0",
+  "uploader": "Manuf.",
+  "version": "1.2",
+  "lastModified": 1769003392,
+  "filesize": 1307979,
+  "modes": [
+   {
+    "name": "Direct",
+    "dmxfootprint": 12
+   },
+   {
+    "name": "Expanded",
+    "dmxfootprint": 11
+   },
+   {
+    "name": "Studio",
+    "dmxfootprint": 7
+   },
+   {
+    "name": "3ch RGB",
+    "dmxfootprint": 3
+   },
+   {
+    "name": "1ch",
+    "dmxfootprint": 1
+   },
+   {
+    "name": "HSIC",
+    "dmxfootprint": 8
+   }
+  ],
+  "wanted": "ETC | S4 Series 3 Lustr X8 26Deg",
+  "category": "Theatre Profiles"
+ },
+ "ETC_S4_Series_3_Lustr_X8_36Deg_61816.gdtf": {
+  "rid": 61816,
+  "uuid": "3A80C0B2-5315-4976-95EE-87039A3C231C",
+  "manufacturer": "ETC",
+  "fixture": "S4 Series 3 Lustr X8 36Deg",
+  "revision": "v1.3.0",
+  "uploader": "Manuf.",
+  "version": "1.2",
+  "lastModified": 1769003392,
+  "filesize": 1308127,
+  "modes": [
+   {
+    "name": "Direct",
+    "dmxfootprint": 12
+   },
+   {
+    "name": "Expanded",
+    "dmxfootprint": 11
+   },
+   {
+    "name": "Studio",
+    "dmxfootprint": 7
+   },
+   {
+    "name": "3ch RGB",
+    "dmxfootprint": 3
+   },
+   {
+    "name": "1ch",
+    "dmxfootprint": 1
+   },
+   {
+    "name": "HSIC",
+    "dmxfootprint": 8
+   }
+  ],
+  "wanted": "ETC | S4 Series 3 Lustr X8 36Deg",
+  "category": "Theatre Profiles"
+ },
+ "ETC_S4_Series_3_Lustr_X8_50Deg_61815.gdtf": {
+  "rid": 61815,
+  "uuid": "9A83A495-C506-4D26-B2B7-2ED0753CBE1D",
+  "manufacturer": "ETC",
+  "fixture": "S4 Series 3 Lustr X8 50Deg",
+  "revision": "v1.3.0",
+  "uploader": "Manuf.",
+  "version": "1.2",
+  "lastModified": 1771853934,
+  "filesize": 1308533,
+  "modes": [
+   {
+    "name": "Direct",
+    "dmxfootprint": 12
+   },
+   {
+    "name": "Expanded",
+    "dmxfootprint": 11
+   },
+   {
+    "name": "Studio",
+    "dmxfootprint": 7
+   },
+   {
+    "name": "3ch RGB",
+    "dmxfootprint": 3
+   },
+   {
+    "name": "1ch",
+    "dmxfootprint": 1
+   },
+   {
+    "name": "HSIC",
+    "dmxfootprint": 8
+   }
+  ],
+  "wanted": "ETC | S4 Series 3 Lustr X8 50Deg",
+  "category": "Theatre Profiles"
+ },
+ "ETC_S4_Series_2_Lustr_120862.gdtf": {
+  "rid": 120862,
+  "uuid": "91A5CBDD-782F-4619-B208-71D3E5D3E174",
+  "manufacturer": "ETC",
+  "fixture": "S4 Series 2 Lustr",
+  "revision": "S4 Series 2 Lustr MT",
+  "uploader": "User",
+  "version": "1.2",
+  "lastModified": 1792693710,
+  "filesize": 927616,
+  "modes": [
+   {
+    "name": "HSIC - Strobe On - Fan DMX +7",
+    "dmxfootprint": 15
+   },
+   {
+    "name": "HSIC - Strobe On - Fan DMX",
+    "dmxfootprint": 7
+   },
+   {
+    "name": "HSIC - Strobe On - Fan Auto +7",
+    "dmxfootprint": 15
+   },
+   {
+    "name": "HSIC - Strobe On - Fan Auto",
+    "dmxfootprint": 7
+   },
+   {
+    "name": "HSIC - Strobe Off - Fan DMX +7",
+    "dmxfootprint": 15
+   },
+   {
+    "name": "HSIC - Strobe Off - Fan DMX",
+    "dmxfootprint": 7
+   },
+   {
+    "name": "HSIC - Strobe Off - Fan Auto +7",
+    "dmxfootprint": 15
+   },
+   {
+    "name": "HSIC - Strobe Off - Fan Auto",
+    "dmxfootprint": 7
+   },
+   {
+    "name": "HSI - Strobe On - Fan DMX +7",
+    "dmxfootprint": 15
+   },
+   {
+    "name": "HSI - Strobe On - Fan DMX",
+    "dmxfootprint": 6
+   },
+   {
+    "name": "HSI - Strobe On - Fan Auto +7",
+    "dmxfootprint": 15
+   },
+   {
+    "name": "HSI - Strobe On - Fan Auto",
+    "dmxfootprint": 6
+   },
+   {
+    "name": "HSI - Strobe Off - Fan DMX +7",
+    "dmxfootprint": 15
+   },
+   {
+    "name": "HSI - Strobe Off - Fan DMX",
+    "dmxfootprint": 6
+   },
+   {
+    "name": "HSI - Strobe Off - Fan Auto +7",
+    "dmxfootprint": 15
+   },
+   {
+    "name": "HSI - Strobe Off - Fan Auto",
+    "dmxfootprint": 6
+   },
+   {
+    "name": "Studio - Strobe On - Fan DMX +7",
+    "dmxfootprint": 15
+   },
+   {
+    "name": "Studio - Strobe On - Fan DMX",
+    "dmxfootprint": 6
+   },
+   {
+    "name": "Studio - Strobe On - Fan Auto +7",
+    "dmxfootprint": 15
+   },
+   {
+    "name": "Studio - Strobe On - Fan Auto",
+    "dmxfootprint": 5
+   },
+   {
+    "name": "Studio - Strobe Off - Fan DMX +7",
+    "dmxfootprint": 15
+   },
+   {
+    "name": "Studio - Strobe Off - Fan DMX",
+    "dmxfootprint": 6
+   },
+   {
+    "name": "Studio - Strobe Off - Fan Auto +7",
+    "dmxfootprint": 15
+   },
+   {
+    "name": "Studio - Strobe Off - Fan Auto",
+    "dmxfootprint": 3
+   },
+   {
+    "name": "RGB - Strobe On - Fan DMX +7",
+    "dmxfootprint": 15
+   },
+   {
+    "name": "RGB - Strobe On - Fan DMX",
+    "dmxfootprint": 6
+   },
+   {
+    "name": "RGB - Strobe On - Fan Auto +7",
+    "dmxfootprint": 15
+   },
+   {
+    "name": "RGB - Strobe On - Fan Auto",
+    "dmxfootprint": 5
+   },
+   {
+    "name": "RGB - Strobe Off - Fan DMX +7",
+    "dmxfootprint": 15
+   },
+   {
+    "name": "RGB - Strobe Off - Fan DMX",
+    "dmxfootprint": 6
+   },
+   {
+    "name": "RGB - Strobe Off - Fan Auto +7",
+    "dmxfootprint": 15
+   },
+   {
+    "name": "RGB - Strobe Off - Fan Auto",
+    "dmxfootprint": 3
+   },
+   {
+    "name": "Direct - Strobe On - Fan DMX",
+    "dmxfootprint": 10
+   },
+   {
+    "name": "Direct - Strobe On - Fan Auto",
+    "dmxfootprint": 9
+   },
+   {
+    "name": "Direct - Strobe Off - Fan DMX",
+    "dmxfootprint": 10
+   },
+   {
+    "name": "Direct - Strobe Off - Fan Auto",
+    "dmxfootprint": 8
+   }
+  ],
+  "wanted": "ETC | S4 Series 2 Lustr",
+  "category": "Theatre Profiles"
+ },
+ "Robert_Juliat_614_Sx_74858.gdtf": {
+  "rid": 74858,
+  "uuid": "DF71EAAE-90D6-4860-8169-874DF343D9B3",
+  "manufacturer": "Robert Juliat",
+  "fixture": "614 Sx",
+  "revision": "0001",
+  "uploader": "User",
+  "version": "1.2",
+  "lastModified": 1769003500,
+  "filesize": 707672,
+  "modes": [
+   {
+    "name": "Standard mode",
+    "dmxfootprint": 1
+   }
+  ],
+  "wanted": "Robert Juliat | 614 Sx",
+  "category": "Theatre Profiles"
+ },
+ "Robert_Juliat_Dalis_860_23719.gdtf": {
+  "rid": 23719,
+  "uuid": "343883AA-AADD-4ECA-BD4C-B4F0DFF6E4F3",
+  "manufacturer": "Robert Juliat",
+  "fixture": "Dalis 860",
+  "revision": "1.00",
+  "uploader": "Manuf.",
+  "version": "1.1",
+  "lastModified": 1785001526,
+  "filesize": 1119481,
+  "modes": [
+   {
+    "name": "Mode1: Full 4 groups 16bits",
+    "dmxfootprint": 70
+   },
+   {
+    "name": "Mode2: Full 1 group 16bits",
+    "dmxfootprint": 22
+   },
+   {
+    "name": "Mode3: Full 1 group 8bits",
+    "dmxfootprint": 13
+   },
+   {
+    "name": "Mode4: Preset mode 16bits",
+    "dmxfootprint": 8
+   },
+   {
+    "name": "Mode5: Preset mode 8bits",
+    "dmxfootprint": 7
+   },
+   {
+    "name": "Mode6: 4 groups individual 16b",
+    "dmxfootprint": 72
+   }
+  ],
+  "wanted": "Robert Juliat | Dalis 860",
+  "category": "Theatre Profiles"
+ },
+ "Robert_Juliat_Dalis_862_58757.gdtf": {
+  "rid": 58757,
+  "uuid": "A60898AA-5AE0-4D7D-865C-D6B9A0F6D0C4",
+  "manufacturer": "Robert Juliat",
+  "fixture": "Dalis 862",
+  "revision": "04.03.2024 - 5",
+  "uploader": "User",
+  "version": "1.2",
+  "lastModified": 1769003373,
+  "filesize": 895896,
+  "modes": [
+   {
+    "name": "Mode2: Full 1 group 16bits",
+    "dmxfootprint": 19
+   }
+  ],
+  "wanted": "Robert Juliat | Dalis 862",
+  "category": "Theatre Profiles"
+ },
+ "Philips_Selecon_Selecon_PLFresnel1_114199.gdtf": {
+  "rid": 114199,
+  "uuid": "072DBC51-B219-4256-97A2-D5B6F0754DDC",
+  "manufacturer": "Philips Selecon",
+  "fixture": "Selecon PLFresnel1",
+  "revision": "Revision 2",
+  "uploader": "User",
+  "version": "1.2",
+  "lastModified": 1769003755,
+  "filesize": 1508471,
+  "modes": [
+   {
+    "name": "3 Channel",
+    "dmxfootprint": 3
+   },
+   {
+    "name": "8 Bit Mode",
+    "dmxfootprint": 9
+   },
+   {
+    "name": "16 Bit Mode",
+    "dmxfootprint": 15
+   }
+  ],
+  "wanted": "Philips Selecon | PLFresnel1",
+  "category": "Fresnel / PC"
+ },
+ "Philips_Selecon_Selecon_PLProfile1_114195.gdtf": {
+  "rid": 114195,
+  "uuid": "CC998B87-C0E5-4FE2-BD1E-A44E472FFEAA",
+  "manufacturer": "Philips Selecon",
+  "fixture": "Selecon PLProfile1",
+  "revision": "Initial Release",
+  "uploader": "User",
+  "version": "1.2",
+  "lastModified": 1769003755,
+  "filesize": 1506809,
+  "modes": [
+   {
+    "name": "3 Channel",
+    "dmxfootprint": 3
+   },
+   {
+    "name": "8 Bit Mode",
+    "dmxfootprint": 9
+   },
+   {
+    "name": "16 Bit Mode",
+    "dmxfootprint": 15
+   }
+  ],
+  "wanted": "Philips Selecon | PLProfile1",
+  "category": "Theatre Profiles"
+ },
+ "Selecon_Pacific_23-50_54095.gdtf": {
+  "rid": 54095,
+  "uuid": "316115CB-D852-464E-B6EB-FF27DDE98F62",
+  "manufacturer": "Selecon",
+  "fixture": "Pacific 23-50",
+  "revision": "1.3. Out for real world testing - updated highlight",
+  "uploader": "User",
+  "version": "1.2",
+  "lastModified": 1769003344,
+  "filesize": 290606,
+  "modes": [
+   {
+    "name": "8-Bit",
+    "dmxfootprint": 1
+   },
+   {
+    "name": "16-Bit",
+    "dmxfootprint": 2
+   }
+  ],
+  "wanted": "Selecon | Pacific 23-50",
+  "category": "Fresnel / PC"
+ },
+ "ADB_C201_8453.gdtf": {
+  "rid": 8453,
+  "uuid": "D7BC9217-AF39-4AF4-8280-833695AD7EEB",
+  "manufacturer": "ADB",
+  "fixture": "C201",
+  "revision": "1.00",
+  "uploader": "User",
+  "version": "1.0",
+  "lastModified": 1769003154,
+  "filesize": 296546,
+  "modes": [
+   {
+    "name": "8BIT DIMM",
+    "dmxfootprint": 1
+   },
+   {
+    "name": "16BIT",
+    "dmxfootprint": 2
+   }
+  ],
+  "wanted": "ADB | C201",
+  "category": "Fresnel / PC"
+ },
+ "ETC_Colorsource_V_Fresnel_107825.gdtf": {
+  "rid": 107825,
+  "uuid": "E8D59449-0944-4364-9B55-C6F5E8BEFCD6",
+  "manufacturer": "ETC",
+  "fixture": "Colorsource V Fresnel",
+  "revision": "Ver 1",
+  "uploader": "User",
+  "version": "1.2",
+  "lastModified": 1793955961,
+  "filesize": 723157,
+  "modes": [
+   {
+    "name": "Direct Mode",
+    "dmxfootprint": 9
+   },
+   {
+    "name": "Standard Mode",
+    "dmxfootprint": 7
+   },
+   {
+    "name": "6ch Mode",
+    "dmxfootprint": 6
+   },
+   {
+    "name": "RGB Mode",
+    "dmxfootprint": 6
+   },
+   {
+    "name": "1ch Mode",
+    "dmxfootprint": 1
+   }
+  ],
+  "wanted": "ETC | Colorsource V Fresnel",
+  "category": "Fresnel / PC"
+ },
+ "ETC_Fos_4_Fresnel_7_in_Lustr_X8_84861.gdtf": {
+  "rid": 84861,
+  "uuid": "87B93F2C-4014-40B3-BBC3-5D122C8BA2E1",
+  "manufacturer": "ETC",
+  "fixture": "Fos/4 Fresnel 7 in Lustr X8",
+  "revision": "New fixture type based on Fos/4 Fresnel 7 in Lustr X8 from ETC",
+  "uploader": "Manuf.",
+  "version": "1.2",
+  "lastModified": 1785521135,
+  "filesize": 769570,
+  "modes": [
+   {
+    "name": "Direct",
+    "dmxfootprint": 12
+   },
+   {
+    "name": "Expanded",
+    "dmxfootprint": 11
+   },
+   {
+    "name": "Studio",
+    "dmxfootprint": 7
+   },
+   {
+    "name": "3ch RGB",
+    "dmxfootprint": 3
+   },
+   {
+    "name": "1ch",
+    "dmxfootprint": 1
+   },
+   {
+    "name": "HSIC",
+    "dmxfootprint": 8
+   }
+  ],
+  "wanted": "ETC | Fos/4 Fresnel 7 in Lustr X8",
+  "category": "Fresnel / PC"
+ },
+ "Generic_PAR_64_VNSP_CP60__18039.gdtf": {
+  "rid": 18039,
+  "uuid": "26169EAC-6ADD-42FF-A129-2E52A96E5B40",
+  "manufacturer": "Generic",
+  "fixture": "PAR 64 VNSP (CP60)",
+  "revision": "1.1.2. Out for real world testing - eded emitter",
+  "uploader": "User",
+  "version": "1.1",
+  "lastModified": 1769003179,
+  "filesize": 85747,
+  "modes": [
+   {
+    "name": "Dim 8Bit",
+    "dmxfootprint": 1
+   },
+   {
+    "name": "Dim 16Bit",
+    "dmxfootprint": 2
+   }
+  ],
+  "wanted": "Generic | PAR 64 VNSP (CP60)",
+  "category": "PAR / LED PAR"
+ },
+ "Generic_PAR_64_NSP_CP61__18041.gdtf": {
+  "rid": 18041,
+  "uuid": "33C67AB2-E861-46D6-84F0-B66B2AF0CAFD",
+  "manufacturer": "Generic",
+  "fixture": "PAR 64 NSP (CP61)",
+  "revision": "1.1.2. out for real world testing -added emitter",
+  "uploader": "User",
+  "version": "1.1",
+  "lastModified": 1769003179,
+  "filesize": 85834,
+  "modes": [
+   {
+    "name": "Dim 8Bit",
+    "dmxfootprint": 1
+   },
+   {
+    "name": "Dim 16Bit",
+    "dmxfootprint": 2
+   }
+  ],
+  "wanted": "Generic | PAR 64 NSP (CP61)",
+  "category": "PAR / LED PAR"
+ },
+ "Generic_PAR_64_MFL_CP62__18042.gdtf": {
+  "rid": 18042,
+  "uuid": "681DE1C2-BF0A-401E-A9FD-62369EED4E8E",
+  "manufacturer": "Generic",
+  "fixture": "PAR 64 MFL (CP62)",
+  "revision": "1.1.2. out for real world testing - added emitter",
+  "uploader": "User",
+  "version": "1.1",
+  "lastModified": 1769003179,
+  "filesize": 85934,
+  "modes": [
+   {
+    "name": "Dim 8Bit",
+    "dmxfootprint": 1
+   },
+   {
+    "name": "Dim 16Bit",
+    "dmxfootprint": 2
+   }
+  ],
+  "wanted": "Generic | PAR 64 MFL (CP62)",
+  "category": "PAR / LED PAR"
+ },
+ "Chauvet_Professional_COLORado_1_Solo_97408.gdtf": {
+  "rid": 97408,
+  "uuid": "E46993A4-CF41-47FE-81A6-7225EFBD1A62",
+  "manufacturer": "Chauvet Professional",
+  "fixture": "COLORado 1 Solo",
+  "revision": "Beta 1.0.1",
+  "uploader": "Manuf.",
+  "version": "1.2",
+  "lastModified": 1783565904,
+  "filesize": 423600,
+  "modes": [
+   {
+    "name": "STD Y",
+    "dmxfootprint": 17
+   },
+   {
+    "name": "TR16",
+    "dmxfootprint": 17
+   },
+   {
+    "name": "TOUR",
+    "dmxfootprint": 12
+   },
+   {
+    "name": "SSP",
+    "dmxfootprint": 9
+   },
+   {
+    "name": "HSIC",
+    "dmxfootprint": 9
+   }
+  ],
+  "wanted": "Chauvet | Colorado 1 Solo",
+  "category": "PAR / LED PAR"
+ },
+ "Chauvet_Professional_Colorado_2_Solo_97411.gdtf": {
+  "rid": 97411,
+  "uuid": "63DDC1B2-1378-4A09-9CE4-EAFFB07C6106",
+  "manufacturer": "Chauvet Professional",
+  "fixture": "Colorado 2 Solo",
+  "revision": "Beta 1.0.1",
+  "uploader": "Manuf.",
+  "version": "1.2",
+  "lastModified": 1791357528,
+  "filesize": 425437,
+  "modes": [
+   {
+    "name": "STD Y",
+    "dmxfootprint": 17
+   },
+   {
+    "name": "TR16",
+    "dmxfootprint": 17
+   },
+   {
+    "name": "TOUR",
+    "dmxfootprint": 12
+   },
+   {
+    "name": "HSIC",
+    "dmxfootprint": 9
+   },
+   {
+    "name": "SSP",
+    "dmxfootprint": 9
+   }
+  ],
+  "wanted": "Chauvet | Colorado 2 Solo",
+  "category": "PAR / LED PAR"
+ },
+ "Martin_Professional_RUSH_PAR_2_RGBW_Zoom_130354.gdtf": {
+  "rid": 130354,
+  "uuid": "478930BE-3D14-4735-828E-179B266D8506",
+  "manufacturer": "Martin Professional",
+  "fixture": "RUSH PAR 2 RGBW Zoom",
+  "revision": "Added Highlight Functionality",
+  "uploader": "User",
+  "version": "1.2",
+  "lastModified": 1789657703,
+  "filesize": 171823,
+  "modes": [
+   {
+    "name": "9 ch mode",
+    "dmxfootprint": 9
+   },
+   {
+    "name": "5 ch mode",
+    "dmxfootprint": 5
+   }
+  ],
+  "wanted": "Martin | RUSH PAR 2",
+  "category": "PAR / LED PAR"
+ },
+ "Prolights_StudioCobPlusFC2_18_88453.gdtf": {
+  "rid": 88453,
+  "uuid": "79BFC372-5C5D-444A-B0CE-C9BC94AADA3B",
+  "manufacturer": "Prolights",
+  "fixture": "StudioCobPlusFC2_18",
+  "revision": "Rev 04 - Added Snap Feature",
+  "uploader": "Manuf.",
+  "version": "1.2",
+  "lastModified": 1769003580,
+  "filesize": 557449,
+  "modes": [
+   {
+    "name": "4ch",
+    "dmxfootprint": 4
+   },
+   {
+    "name": "6ch",
+    "dmxfootprint": 6
+   },
+   {
+    "name": "10ch",
+    "dmxfootprint": 10
+   }
+  ],
+  "wanted": "Prolights | StudioCobPlusFC2_18",
+  "category": "PAR / LED PAR"
+ },
+ "Prolights_StudioCobPlusDY2_37_88451.gdtf": {
+  "rid": 88451,
+  "uuid": "4B7D4874-F81D-4447-9581-ABF8BD747F7B",
+  "manufacturer": "Prolights",
+  "fixture": "StudioCobPlusDY2_37",
+  "revision": "Rev 15 - Added Snap Feature",
+  "uploader": "Manuf.",
+  "version": "1.2",
+  "lastModified": 1769003580,
+  "filesize": 223566,
+  "modes": [
+   {
+    "name": "1ch",
+    "dmxfootprint": 1
+   },
+   {
+    "name": "2ch",
+    "dmxfootprint": 2
+   },
+   {
+    "name": "5ch",
+    "dmxfootprint": 5
+   }
+  ],
+  "wanted": "Prolights | StudioCobPlusDY2_37",
+  "category": "PAR / LED PAR"
+ },
+ "ETC_Colorsource_PAR_Pearl_160879.gdtf": {
+  "rid": 160879,
+  "uuid": "79ED198E-A03B-4B53-967E-EFEC35270ED4",
+  "manufacturer": "ETC",
+  "fixture": "Colorsource PAR Pearl",
+  "revision": "Intensity-GrandMaster",
+  "uploader": "User",
+  "version": "1.2",
+  "lastModified": 1789676229,
+  "filesize": 540145,
+  "modes": [
+   {
+    "name": "ct",
+    "dmxfootprint": 2
+   },
+   {
+    "name": "dir",
+    "dmxfootprint": 4
+   },
+   {
+    "name": "1ch",
+    "dmxfootprint": 1
+   }
+  ],
+  "wanted": "ETC | ColorSource PAR Pearl",
+  "category": "PAR / LED PAR"
+ },
+ "Robe_Lighting_Robin_600_LEDWash_60186.gdtf": {
+  "rid": 60186,
+  "uuid": "1C8C3DB6-A31F-4220-BD67-99035290B312",
+  "manufacturer": "Robe Lighting",
+  "fixture": "Robin 600 LEDWash",
+  "revision": "2024-03-25  Zoom range fix",
+  "uploader": "Manuf.",
+  "version": "1.2",
+  "lastModified": 1769003382,
+  "filesize": 1519175,
+  "modes": [
+   {
+    "name": "Mode 1 Extended with all zones 16bit",
+    "dmxfootprint": 37
+   },
+   {
+    "name": "Mode 2 Reduced RGBW Wash 16bit",
+    "dmxfootprint": 21
+   },
+   {
+    "name": "Mode 3 Reduced RGBW Wash 8bit",
+    "dmxfootprint": 15
+   },
+   {
+    "name": "Mode 4 Limited macro colors 8bit",
+    "dmxfootprint": 10
+   },
+   {
+    "name": "Mode 5 Extended all zones at the end 16bit",
+    "dmxfootprint": 37
+   },
+   {
+    "name": "Mode 6 Extended all zones 8bit",
+    "dmxfootprint": 25
+   }
+  ],
+  "wanted": "Robe | LEDWash 600",
+  "category": "LED Wash / Bar / Strip"
+ },
+ "Robe_Lighting_Robin_800_LEDWash_SW_45536.gdtf": {
+  "rid": 45536,
+  "uuid": "7A2126A4-A6D4-4C00-B6F7-3FD1D6BD1B49",
+  "manufacturer": "Robe Lighting",
+  "fixture": "Robin 800 LEDWash SW",
+  "revision": "2023-08-14  Share initial release",
+  "uploader": "Manuf.",
+  "version": "1.2",
+  "lastModified": 1769003288,
+  "filesize": 1175844,
+  "modes": [
+   {
+    "name": "Mode 1 Zones 16bit",
+    "dmxfootprint": 25
+   },
+   {
+    "name": "Mode 2 Reduced Wash 16bit",
+    "dmxfootprint": 17
+   },
+   {
+    "name": "Mode 3 Reduced Wash 8bit",
+    "dmxfootprint": 13
+   },
+   {
+    "name": "Mode 4 Limited macro colors 8bit",
+    "dmxfootprint": 11
+   },
+   {
+    "name": "Mode 5 Zones at the end 16bit",
+    "dmxfootprint": 25
+   },
+   {
+    "name": "Mode 6 Zones no shaper 16bit",
+    "dmxfootprint": 24
+   }
+  ],
+  "wanted": "Robe | LEDWash 800",
+  "category": "LED Wash / Bar / Strip"
+ },
+ "Robe_Lighting_Robin_CycBar_15_119744.gdtf": {
+  "rid": 119744,
+  "uuid": "EF6E9B12-23F0-4435-BEFF-8CBFC338D09C",
+  "manufacturer": "Robe Lighting",
+  "fixture": "Robin CycBar 15",
+  "revision": "2025-12-03  Reupload to share",
+  "uploader": "Manuf.",
+  "version": "1.2",
+  "lastModified": 1769003800,
+  "filesize": 651445,
+  "modes": [
+   {
+    "name": "Mode 1 - Standard 16 - bit",
+    "dmxfootprint": 16
+   },
+   {
+    "name": "Mode 2 - Reduced 8 - bit",
+    "dmxfootprint": 11
+   },
+   {
+    "name": "Mode 3 - Extended 16 - bit + RGB pixels",
+    "dmxfootprint": 61
+   },
+   {
+    "name": "Mode 4 - Extended 16 - bit + RGBD pixels",
+    "dmxfootprint": 76
+   },
+   {
+    "name": "Mode 5 - Extended 16 - bit + RGB pixels + LED Frequency setting",
+    "dmxfootprint": 47
+   },
+   {
+    "name": "Mode 6 - RGB pixels",
+    "dmxfootprint": 45
+   }
+  ],
+  "wanted": "Robe | CycBar 15",
+  "category": "LED Wash / Bar / Strip"
+ },
+ "Robe_Lighting_Robin_Tetra2_119736.gdtf": {
+  "rid": 119736,
+  "uuid": "5A7B5195-AF40-4BDA-A658-CBAA98DFF9C0",
+  "manufacturer": "Robe Lighting",
+  "fixture": "Robin Tetra2",
+  "revision": "2025-12-03 Reupload to share",
+  "uploader": "Manuf.",
+  "version": "1.2",
+  "lastModified": 1788929777,
+  "filesize": 975613,
+  "modes": [
+   {
+    "name": "Mode 6-Pattern full RGBW",
+    "dmxfootprint": 128
+   },
+   {
+    "name": "Mode 5-Pattern full RGB",
+    "dmxfootprint": 110
+   },
+   {
+    "name": "Mode 4-Pixel RGBW",
+    "dmxfootprint": 115
+   },
+   {
+    "name": "Mode 3-Pixel RGB",
+    "dmxfootprint": 97
+   },
+   {
+    "name": "Mode 2-Pattern",
+    "dmxfootprint": 56
+   },
+   {
+    "name": "Mode 1-Wash",
+    "dmxfootprint": 34
+   }
+  ],
+  "wanted": "Robe | Tetra2",
+  "category": "LED Wash / Bar / Strip"
+ },
+ "GLP_impression_X4_Bar_20_34774.gdtf": {
+  "rid": 34774,
+  "uuid": "B6AC1910-94BC-41CB-853F-6080EA24F932",
+  "manufacturer": "GLP",
+  "fixture": "impression X4 Bar 20",
+  "revision": "Final. Based of X4 Bar 10",
+  "uploader": "User",
+  "version": "1.2",
+  "lastModified": 1794078992,
+  "filesize": 7659450,
+  "modes": [
+   {
+    "name": "Norm",
+    "dmxfootprint": 33
+   },
+   {
+    "name": "Comp",
+    "dmxfootprint": 19
+   },
+   {
+    "name": "High Resolution",
+    "dmxfootprint": 34
+   },
+   {
+    "name": "Single Pixel Mode",
+    "dmxfootprint": 88
+   },
+   {
+    "name": "Single Pixel High Resolution",
+    "dmxfootprint": 89
+   },
+   {
+    "name": "Dual Pixel Mode",
+    "dmxfootprint": 48
+   },
+   {
+    "name": "Dual Pixel High Resolution",
+    "dmxfootprint": 49
+   }
+  ],
+  "wanted": "GLP | X4 Bar 20",
+  "category": "LED Wash / Bar / Strip"
+ },
+ "GLP_X4_Bar_10_22993.gdtf": {
+  "rid": 22993,
+  "uuid": "30E16593-352C-4691-94C6-928893309828",
+  "manufacturer": "GLP",
+  "fixture": "X4 Bar 10",
+  "revision": "V2.08",
+  "uploader": "User",
+  "version": "1.1",
+  "lastModified": 1769003197,
+  "filesize": 7638988,
+  "modes": [
+   {
+    "name": "Norm",
+    "dmxfootprint": 33
+   },
+   {
+    "name": "Comp",
+    "dmxfootprint": 19
+   },
+   {
+    "name": "High Resolution",
+    "dmxfootprint": 34
+   },
+   {
+    "name": "Single Pixel Mode",
+    "dmxfootprint": 48
+   },
+   {
+    "name": "Single Pixel High Resolution",
+    "dmxfootprint": 49
+   },
+   {
+    "name": "Dual Pixel Mode",
+    "dmxfootprint": 28
+   },
+   {
+    "name": "Dual Pixel High Resolution",
+    "dmxfootprint": 29
+   }
+  ],
+  "wanted": "GLP | X4 Bar 10",
+  "category": "LED Wash / Bar / Strip"
+ },
+ "Chauvet_Professional_COLORado_Batten_72X_97415.gdtf": {
+  "rid": 97415,
+  "uuid": "8256EC60-93F3-448B-824F-1BB6BC1AE418",
+  "manufacturer": "Chauvet Professional",
+  "fixture": "COLORado Batten 72X",
+  "revision": "Beta 1.0.1",
+  "uploader": "Manuf.",
+  "version": "1.2",
+  "lastModified": 1769003644,
+  "filesize": 596374,
+  "modes": [
+   {
+    "name": "3 HSIC",
+    "dmxfootprint": 22
+   },
+   {
+    "name": "3 RGBAW Full",
+    "dmxfootprint": 43
+   },
+   {
+    "name": "3 RGBAW FIN",
+    "dmxfootprint": 30
+   },
+   {
+    "name": "3 RGBAW EXT",
+    "dmxfootprint": 27
+   },
+   {
+    "name": "3 RGBAW",
+    "dmxfootprint": 15
+   },
+   {
+    "name": "3 RGBA EXT",
+    "dmxfootprint": 24
+   },
+   {
+    "name": "3 RGBA",
+    "dmxfootprint": 12
+   },
+   {
+    "name": "3 RGB EXT",
+    "dmxfootprint": 21
+   },
+   {
+    "name": "3 RGB",
+    "dmxfootprint": 9
+   },
+   {
+    "name": "1 HSIC",
+    "dmxfootprint": 8
+   },
+   {
+    "name": "1 RGBAW FUL",
+    "dmxfootprint": 16
+   },
+   {
+    "name": "1 RGBAW FIN",
+    "dmxfootprint": 10
+   },
+   {
+    "name": "1 RGBAW EXT",
+    "dmxfootprint": 10
+   },
+   {
+    "name": "1 RGBAW",
+    "dmxfootprint": 5
+   },
+   {
+    "name": "1 RGBA EXT",
+    "dmxfootprint": 9
+   },
+   {
+    "name": "1 RGBA",
+    "dmxfootprint": 4
+   },
+   {
+    "name": "1 RGB EXT",
+    "dmxfootprint": 8
+   },
+   {
+    "name": "1 RGB",
+    "dmxfootprint": 3
+   }
+  ],
+  "wanted": "Chauvet | Colorado Batten 72X",
+  "category": "LED Wash / Bar / Strip"
+ },
+ "Astera_LED_Technology_Titan_Tube_24843.gdtf": {
+  "rid": 24843,
+  "uuid": "5D6F4670-EE9C-42E0-A14B-F55054D54F69",
+  "manufacturer": "Astera LED Technology",
+  "fixture": "Titan Tube",
+  "revision": "Minus 518mm from Centre Anchor -  Mode 50 (Matches VWX Default Model)",
+  "uploader": "User",
+  "version": "1.1",
+  "lastModified": 1793362134,
+  "filesize": 382551,
+  "modes": [
+   {
+    "name": "Mode 50 - 16Pix RGB Master Strobe",
+    "dmxfootprint": 49
+   }
+  ],
+  "wanted": "Astera | Titan Tube",
+  "category": "Wireless / Battery"
+ },
+ "Astera_LED_Technology_FP2_Helios_Tube_62998.gdtf": {
+  "rid": 62998,
+  "uuid": "27A65BE2-0A40-4AF5-8AC2-5B512624AFB3",
+  "manufacturer": "Astera LED Technology",
+  "fixture": "FP2 Helios Tube",
+  "revision": "tested by Astera / V3",
+  "uploader": "Manuf.",
+  "version": "1.2",
+  "lastModified": 1769175417,
+  "filesize": 1623359,
+  "modes": [
+   {
+    "name": "1: RGB",
+    "dmxfootprint": 3
+   },
+   {
+    "name": "2: RGBW ",
+    "dmxfootprint": 4
+   },
+   {
+    "name": "3: RGBAW",
+    "dmxfootprint": 5
+   },
+   {
+    "name": "4: DIM RGB",
+    "dmxfootprint": 4
+   },
+   {
+    "name": "5: DIM RGBW",
+    "dmxfootprint": 5
+   },
+   {
+    "name": "6: DIM RGBAW",
+    "dmxfootprint": 6
+   },
+   {
+    "name": "7: RGB CCT DIM IND",
+    "dmxfootprint": 6
+   },
+   {
+    "name": "8: RGBS",
+    "dmxfootprint": 4
+   },
+   {
+    "name": "9: RGBWS",
+    "dmxfootprint": 5
+   },
+   {
+    "name": "10: RGBAWS",
+    "dmxfootprint": 6
+   },
+   {
+    "name": "11: DIM RGBS",
+    "dmxfootprint": 5
+   },
+   {
+    "name": "12: DIM RGBWS ",
+    "dmxfootprint": 6
+   },
+   {
+    "name": "13: DIM RGBAWS",
+    "dmxfootprint": 7
+   },
+   {
+    "name": "14: RGB CCT DIM IND S",
+    "dmxfootprint": 7
+   },
+   {
+    "name": "15: Effect Mode Fix",
+    "dmxfootprint": 13
+   },
+   {
+    "name": "16: Effect Mode RGB",
+    "dmxfootprint": 21
+   },
+   {
+    "name": "17: RGB*RGB*",
+    "dmxfootprint": 7
+   },
+   {
+    "name": "18: RGB RGB",
+    "dmxfootprint": 6
+   },
+   {
+    "name": "19: RGBW RGBW",
+    "dmxfootprint": 8
+   },
+   {
+    "name": "20: RGBAW RGBAW",
+    "dmxfootprint": 10
+   },
+   {
+    "name": "21: DIM RGB DIM RGB",
+    "dmxfootprint": 8
+   },
+   {
+    "name": "22: DIM RGBW DIM RGBW",
+    "dmxfootprint": 10
+   },
+   {
+    "name": "23: DIM RGBAW DIM RGBAW",
+    "dmxfootprint": 12
+   },
+   {
+    "name": "24: RGB CCT DIM IND",
+    "dmxfootprint": 12
+   },
+   {
+    "name": "25: RGB*RGBS",
+    "dmxfootprint": 7
+   },
+   {
+    "name": "26: RGB*RGB S",
+    "dmxfootprint": 7
+   },
+   {
+    "name": "27: RGBW RGBW S",
+    "dmxfootprint": 9
+   },
+   {
+    "name": "28: RGBAW RGBAW S",
+    "dmxfootprint": 11
+   },
+   {
+    "name": "29: DIM RGB DIM RGB S",
+    "dmxfootprint": 9
+   },
+   {
+    "name": "30: DIM RGBW DIM RGBW S",
+    "dmxfootprint": 11
+   },
+   {
+    "name": "31: DIM RGBAW RGBAW S",
+    "dmxfootprint": 13
+   },
+   {
+    "name": "32: RGB CCT DIM IND S",
+    "dmxfootprint": 13
+   },
+   {
+    "name": "33: RGBS RGBS",
+    "dmxfootprint": 8
+   },
+   {
+    "name": "34: RGB RGB SS",
+    "dmxfootprint": 8
+   },
+   {
+    "name": "35: RGBWS RGBWS",
+    "dmxfootprint": 10
+   },
+   {
+    "name": "36: RGBAWS RGBAWS",
+    "dmxfootprint": 12
+   },
+   {
+    "name": "37: DIM RGBS DIM RGBS",
+    "dmxfootprint": 10
+   },
+   {
+    "name": "38: DIM RGBWS DIM RGBWS",
+    "dmxfootprint": 12
+   },
+   {
+    "name": "39: DIM RGBAWS DIM RGBAWS",
+    "dmxfootprint": 14
+   },
+   {
+    "name": "40: RGB CCT DIM IND S",
+    "dmxfootprint": 14
+   },
+   {
+    "name": "41: RGB*RGB*",
+    "dmxfootprint": 31
+   },
+   {
+    "name": "42: RGB RGB",
+    "dmxfootprint": 24
+   },
+   {
+    "name": "43: RGBW RGBW",
+    "dmxfootprint": 32
+   },
+   {
+    "name": "44: RGBAW RGBAW",
+    "dmxfootprint": 40
+   },
+   {
+    "name": "45: DIM RGB DIM RGB",
+    "dmxfootprint": 32
+   },
+   {
+    "name": "46: DIM RGBW DIM RGBW",
+    "dmxfootprint": 40
+   },
+   {
+    "name": "47: DIM RGBAW DIM RGBAW",
+    "dmxfootprint": 48
+   },
+   {
+    "name": "48: RGB CCT DIM IND",
+    "dmxfootprint": 48
+   },
+   {
+    "name": "49: RGB*RGBS",
+    "dmxfootprint": 31
+   },
+   {
+    "name": "50: RGB RGB S",
+    "dmxfootprint": 25
+   },
+   {
+    "name": "51: RGBW RGBW S",
+    "dmxfootprint": 33
+   },
+   {
+    "name": "52: RGBAW RGBAW S",
+    "dmxfootprint": 41
+   },
+   {
+    "name": "53: DIM RGB DIM RGB S",
+    "dmxfootprint": 33
+   },
+   {
+    "name": "54: DIM RGBW DIM RGBW S",
+    "dmxfootprint": 41
+   },
+   {
+    "name": "55: DIM RGBAW RGBAW S",
+    "dmxfootprint": 49
+   },
+   {
+    "name": "56: RGB CCT DIM IND S",
+    "dmxfootprint": 49
+   },
+   {
+    "name": "57: RGBS RGBS",
+    "dmxfootprint": 32
+   },
+   {
+    "name": "58: RGB RGB SS ",
+    "dmxfootprint": 32
+   },
+   {
+    "name": "59: RGBWS RGBWS ",
+    "dmxfootprint": 40
+   },
+   {
+    "name": "60: RGBAWS RGBAWS",
+    "dmxfootprint": 48
+   },
+   {
+    "name": "61: DIM RGBS DIM RGBS",
+    "dmxfootprint": 40
+   },
+   {
+    "name": "62: DIM RGBWS DIM RGBWS",
+    "dmxfootprint": 48
+   },
+   {
+    "name": "63: DIM RGBAWS RGBAWS",
+    "dmxfootprint": 56
+   },
+   {
+    "name": "64: RGB CCT DIM IND S",
+    "dmxfootprint": 56
+   },
+   {
+    "name": "65: RGB*RGB*",
+    "dmxfootprint": 15
+   },
+   {
+    "name": "66: RGB RGB",
+    "dmxfootprint": 12
+   },
+   {
+    "name": "67: RGBW RGBW",
+    "dmxfootprint": 16
+   },
+   {
+    "name": "68: RGBAW RGBAW",
+    "dmxfootprint": 20
+   },
+   {
+    "name": "69: DIM RGB DIM RGB ",
+    "dmxfootprint": 16
+   },
+   {
+    "name": "70: DIM RGBW DIM RGBW",
+    "dmxfootprint": 20
+   },
+   {
+    "name": "71: DIM RGBAW DIM RGBAW ",
+    "dmxfootprint": 24
+   },
+   {
+    "name": "72: RGB CCT DIM IND ",
+    "dmxfootprint": 24
+   },
+   {
+    "name": "73: RGB*RGBS",
+    "dmxfootprint": 15
+   },
+   {
+    "name": "74: RGB RGB S",
+    "dmxfootprint": 13
+   },
+   {
+    "name": "75: RGBW RGBW S",
+    "dmxfootprint": 17
+   },
+   {
+    "name": "76: RGBAW RGBAW S",
+    "dmxfootprint": 21
+   },
+   {
+    "name": "77: DIM RGB DIM RGB S",
+    "dmxfootprint": 17
+   },
+   {
+    "name": "78: DIM RGBW DIM RGBW S",
+    "dmxfootprint": 21
+   },
+   {
+    "name": "79 DIM RGBAW RGBAW S",
+    "dmxfootprint": 25
+   },
+   {
+    "name": "80: RGB CCT DIM IND S",
+    "dmxfootprint": 25
+   },
+   {
+    "name": "81: RGBS RGBS",
+    "dmxfootprint": 16
+   },
+   {
+    "name": "82: RGB RGB SS",
+    "dmxfootprint": 16
+   },
+   {
+    "name": "83: RGBWS RGBWS",
+    "dmxfootprint": 20
+   },
+   {
+    "name": "84: RGBAWS RGBAWS",
+    "dmxfootprint": 24
+   },
+   {
+    "name": "85: DIM RGBS DIM RGBS",
+    "dmxfootprint": 20
+   },
+   {
+    "name": "86: DIM RGBWS DIM RGBWS",
+    "dmxfootprint": 24
+   },
+   {
+    "name": "87: DIM RGBAWS DIM RGBAWS",
+    "dmxfootprint": 28
+   },
+   {
+    "name": "88: RGB CCT DIM IND S",
+    "dmxfootprint": 28
+   },
+   {
+    "name": "89: D CCT GM CRO RGB",
+    "dmxfootprint": 7
+   },
+   {
+    "name": "90: D CCT GM HUE SAT",
+    "dmxfootprint": 5
+   },
+   {
+    "name": "91: D16 CCT GM C RGB",
+    "dmxfootprint": 8
+   },
+   {
+    "name": "92: D16 CCT GM H SAT",
+    "dmxfootprint": 7
+   },
+   {
+    "name": "93: D16 X Y",
+    "dmxfootprint": 6
+   },
+   {
+    "name": "94: D CCT GM CRO RGB S",
+    "dmxfootprint": 8
+   },
+   {
+    "name": "95: D CCT GM HUE SAT S",
+    "dmxfootprint": 6
+   },
+   {
+    "name": "96: D16 CCT GM H SAT S",
+    "dmxfootprint": 8
+   },
+   {
+    "name": "97: D16 X Y S",
+    "dmxfootprint": 7
+   },
+   {
+    "name": "98: D CCT GM CRO RGB",
+    "dmxfootprint": 14
+   },
+   {
+    "name": "99: D CCT GM HUE SAT",
+    "dmxfootprint": 10
+   },
+   {
+    "name": "100: D16 CCT GM C RGB",
+    "dmxfootprint": 16
+   },
+   {
+    "name": "101: D16 CCT GM H SAT",
+    "dmxfootprint": 14
+   },
+   {
+    "name": "102: D16 X Y",
+    "dmxfootprint": 12
+   },
+   {
+    "name": "103: D CCT GM CRO RGB S",
+    "dmxfootprint": 15
+   },
+   {
+    "name": "104: D CCT GM HUE SAT S",
+    "dmxfootprint": 11
+   },
+   {
+    "name": "105: D16 CCT GM H SAT S",
+    "dmxfootprint": 15
+   },
+   {
+    "name": "106: D16 X Y S",
+    "dmxfootprint": 13
+   },
+   {
+    "name": "107: D CCT GM CRO RGB S",
+    "dmxfootprint": 16
+   },
+   {
+    "name": "108: D CCT GM HUE SAT S ",
+    "dmxfootprint": 12
+   },
+   {
+    "name": "109: D16 CCT GM H SAT S ",
+    "dmxfootprint": 16
+   },
+   {
+    "name": "110: D16 X Y S",
+    "dmxfootprint": 14
+   },
+   {
+    "name": "111: D CCT GM CRO RGB",
+    "dmxfootprint": 56
+   },
+   {
+    "name": "112: D CCT GM HUE SAT",
+    "dmxfootprint": 40
+   },
+   {
+    "name": "113: D16 CCT GM C RGB",
+    "dmxfootprint": 64
+   },
+   {
+    "name": "114: D16 CCT GM H SAT",
+    "dmxfootprint": 56
+   },
+   {
+    "name": "115: D16 X Y",
+    "dmxfootprint": 48
+   },
+   {
+    "name": "116: D CCT GM CRO RGB S",
+    "dmxfootprint": 57
+   },
+   {
+    "name": "117: D CCT GM HUE SAT S",
+    "dmxfootprint": 41
+   },
+   {
+    "name": "118: D16 CCT GM H SAT S",
+    "dmxfootprint": 57
+   },
+   {
+    "name": "119: D16 X Y S",
+    "dmxfootprint": 49
+   },
+   {
+    "name": "120: D CCT GM CRO RGB S",
+    "dmxfootprint": 64
+   },
+   {
+    "name": "121: D CCT GM HUE SAT S",
+    "dmxfootprint": 48
+   },
+   {
+    "name": "122: D16 CCT GM H SAT S",
+    "dmxfootprint": 64
+   },
+   {
+    "name": "123: D16 X Y S",
+    "dmxfootprint": 56
+   },
+   {
+    "name": "124: D CCT GM CRO RGB",
+    "dmxfootprint": 28
+   },
+   {
+    "name": "125: D CCT GM HUE SAT",
+    "dmxfootprint": 20
+   },
+   {
+    "name": "126: D16 CCT GM C RGB",
+    "dmxfootprint": 32
+   },
+   {
+    "name": "127: D16 CCT GM H SAT",
+    "dmxfootprint": 28
+   },
+   {
+    "name": "128: D16 X Y",
+    "dmxfootprint": 24
+   },
+   {
+    "name": "129: D CCT GM CRO RGB S",
+    "dmxfootprint": 29
+   },
+   {
+    "name": "130: D CCT GM HUE SAT S",
+    "dmxfootprint": 21
+   },
+   {
+    "name": "131: D16 CCT GM H SAT S",
+    "dmxfootprint": 29
+   },
+   {
+    "name": "132: D16 X Y S",
+    "dmxfootprint": 25
+   },
+   {
+    "name": "133: D CCT GM CRO RGB S ",
+    "dmxfootprint": 32
+   },
+   {
+    "name": "134: D CCT GM HUE SAT S",
+    "dmxfootprint": 24
+   },
+   {
+    "name": "135: D16 CCT GM H SAT S",
+    "dmxfootprint": 32
+   },
+   {
+    "name": "136: D16 X Y S",
+    "dmxfootprint": 28
+   },
+   {
+    "name": "137: D16 CCT GM C RGB S",
+    "dmxfootprint": 9
+   },
+   {
+    "name": "138: D16 CCT GM C RGB S",
+    "dmxfootprint": 129
+   },
+   {
+    "name": "139: D16 CCT GM C RGB S ",
+    "dmxfootprint": 18
+   },
+   {
+    "name": "140: D16 CCT GM C RGB S",
+    "dmxfootprint": 65
+   },
+   {
+    "name": "141: D16 CCT GM C RGB S",
+    "dmxfootprint": 72
+   },
+   {
+    "name": "142: D16 CCT GM C RGB S",
+    "dmxfootprint": 33
+   },
+   {
+    "name": "143: D16 CCT GM C RGB S",
+    "dmxfootprint": 36
+   },
+   {
+    "name": "168: D CCT GM C CRO XY",
+    "dmxfootprint": 8
+   },
+   {
+    "name": "169: D16 CCT GM C CRO XY ",
+    "dmxfootprint": 9
+   },
+   {
+    "name": "170: D CCT GM C CRO XY S",
+    "dmxfootprint": 9
+   },
+   {
+    "name": "171: D16 CCT GM C CRO XY S",
+    "dmxfootprint": 10
+   },
+   {
+    "name": "178: D CCT GM C CRO XY",
+    "dmxfootprint": 16
+   },
+   {
+    "name": "179: D16 CCT GM C CRO XY",
+    "dmxfootprint": 18
+   },
+   {
+    "name": "180: D CCT GM C CRO XY S",
+    "dmxfootprint": 17
+   },
+   {
+    "name": "181: D16 CCT GM C CRO XY S",
+    "dmxfootprint": 19
+   },
+   {
+    "name": "182: D CCT GM C CRO XY S",
+    "dmxfootprint": 18
+   },
+   {
+    "name": "183: D16 CCT GM C CRO XY S",
+    "dmxfootprint": 20
+   },
+   {
+    "name": "184: D CCT GM C CRO XY",
+    "dmxfootprint": 32
+   },
+   {
+    "name": "185: D16 CCT GM C CRO XY",
+    "dmxfootprint": 36
+   },
+   {
+    "name": "186: D CCT GM C CRO XY S",
+    "dmxfootprint": 33
+   },
+   {
+    "name": "187: D16 CCT GM C CRO XY S",
+    "dmxfootprint": 37
+   },
+   {
+    "name": "188: D CCT GM C CRO XY S",
+    "dmxfootprint": 36
+   },
+   {
+    "name": "189: D16 CCT GM C CRO XY S",
+    "dmxfootprint": 40
+   },
+   {
+    "name": "190: D CCT GM C CRO XY",
+    "dmxfootprint": 64
+   },
+   {
+    "name": "191: D16 CCT GM C CRO XY",
+    "dmxfootprint": 72
+   },
+   {
+    "name": "192: D CCT GM C CRO XY S",
+    "dmxfootprint": 65
+   },
+   {
+    "name": "193: D16 CCT GM C CRO XY S",
+    "dmxfootprint": 73
+   },
+   {
+    "name": "194: D CCT GM C CRO XY S",
+    "dmxfootprint": 72
+   },
+   {
+    "name": "195: D16 CCT GM C CRO XY S",
+    "dmxfootprint": 80
+   }
+  ],
+  "wanted": "Astera | Helios Tube",
+  "category": "Wireless / Battery"
+ },
+ "Astera_LED_Technology_AX1_PixelTube_62991.gdtf": {
+  "rid": 62991,
+  "uuid": "041A6523-2064-4687-9670-739CC254A388",
+  "manufacturer": "Astera LED Technology",
+  "fixture": "AX1 PixelTube",
+  "revision": "tested by Astera / V3",
+  "uploader": "Manuf.",
+  "version": "1.2",
+  "lastModified": 1771081214,
+  "filesize": 1689324,
+  "modes": [
+   {
+    "name": "1: RGB",
+    "dmxfootprint": 3
+   },
+   {
+    "name": "2: RGBW ",
+    "dmxfootprint": 4
+   },
+   {
+    "name": "3: RGBAW",
+    "dmxfootprint": 5
+   },
+   {
+    "name": "4: DIM RGB",
+    "dmxfootprint": 4
+   },
+   {
+    "name": "5: DIM RGBW",
+    "dmxfootprint": 5
+   },
+   {
+    "name": "6: DIM RGBAW",
+    "dmxfootprint": 6
+   },
+   {
+    "name": "7: RGB CCT DIM IND",
+    "dmxfootprint": 6
+   },
+   {
+    "name": "8: RGBS",
+    "dmxfootprint": 4
+   },
+   {
+    "name": "9: RGBWS",
+    "dmxfootprint": 5
+   },
+   {
+    "name": "10: RGBAWS",
+    "dmxfootprint": 6
+   },
+   {
+    "name": "11: DIM RGBS",
+    "dmxfootprint": 5
+   },
+   {
+    "name": "12: DIM RGBWS ",
+    "dmxfootprint": 6
+   },
+   {
+    "name": "13: DIM RGBAWS",
+    "dmxfootprint": 7
+   },
+   {
+    "name": "14: RGB CCT DIM IND S",
+    "dmxfootprint": 7
+   },
+   {
+    "name": "15: Effect Mode Fix",
+    "dmxfootprint": 13
+   },
+   {
+    "name": "16: Effect Mode RGB",
+    "dmxfootprint": 21
+   },
+   {
+    "name": "17: RGB*RGB*",
+    "dmxfootprint": 15
+   },
+   {
+    "name": "18: RGB RGB",
+    "dmxfootprint": 12
+   },
+   {
+    "name": "19: RGBW RGBW",
+    "dmxfootprint": 16
+   },
+   {
+    "name": "20: RGBAW RGBAW",
+    "dmxfootprint": 20
+   },
+   {
+    "name": "21: DIM RGB DIM RGB ",
+    "dmxfootprint": 16
+   },
+   {
+    "name": "22: DIM RGBW DIM RGBW",
+    "dmxfootprint": 20
+   },
+   {
+    "name": "23: DIM RGBAW DIM RGBAW ",
+    "dmxfootprint": 24
+   },
+   {
+    "name": "24: RGB CCT DIM IND ",
+    "dmxfootprint": 24
+   },
+   {
+    "name": "25: RGB*RGBS",
+    "dmxfootprint": 15
+   },
+   {
+    "name": "26: RGB RGB S",
+    "dmxfootprint": 13
+   },
+   {
+    "name": "27: RGBW RGBW S",
+    "dmxfootprint": 17
+   },
+   {
+    "name": "28: RGBAW RGBAW S",
+    "dmxfootprint": 21
+   },
+   {
+    "name": "29: DIM RGB DIM RGB S",
+    "dmxfootprint": 17
+   },
+   {
+    "name": "30: DIM RGBW DIM RGBW S",
+    "dmxfootprint": 21
+   },
+   {
+    "name": "31 DIM RGBAW RGBAW S",
+    "dmxfootprint": 25
+   },
+   {
+    "name": "32: RGB CCT DIM IND S",
+    "dmxfootprint": 25
+   },
+   {
+    "name": "33: RGBS RGBS",
+    "dmxfootprint": 16
+   },
+   {
+    "name": "34: RGB RGB SS ",
+    "dmxfootprint": 16
+   },
+   {
+    "name": "35: RGBWS RGBWS ",
+    "dmxfootprint": 20
+   },
+   {
+    "name": "36: RGBAWS RGBAWS",
+    "dmxfootprint": 24
+   },
+   {
+    "name": "37: DIM RGBS DIM RGBS",
+    "dmxfootprint": 20
+   },
+   {
+    "name": "38: DIM RGBWS DIM RGBWS",
+    "dmxfootprint": 24
+   },
+   {
+    "name": "39: DIM RGBAWS DIM RGBAWS",
+    "dmxfootprint": 28
+   },
+   {
+    "name": "40: RGB CCT DIM IND S",
+    "dmxfootprint": 28
+   },
+   {
+    "name": "41: RGB*RGB*",
+    "dmxfootprint": 63
+   },
+   {
+    "name": "42: RGB RGB",
+    "dmxfootprint": 48
+   },
+   {
+    "name": "43: RGBW RGBW",
+    "dmxfootprint": 64
+   },
+   {
+    "name": "44: RGBAW RGBAW",
+    "dmxfootprint": 80
+   },
+   {
+    "name": "45: DIM RGB DIM RGB",
+    "dmxfootprint": 64
+   },
+   {
+    "name": "46: DIM RGBW DIM RGBW",
+    "dmxfootprint": 80
+   },
+   {
+    "name": "47: DIM RGBAW DIM RGBAW",
+    "dmxfootprint": 96
+   },
+   {
+    "name": "48: RGB CCT DIM IND",
+    "dmxfootprint": 96
+   },
+   {
+    "name": "49: RGB*RGBS",
+    "dmxfootprint": 63
+   },
+   {
+    "name": "50: RGB*RGB S",
+    "dmxfootprint": 49
+   },
+   {
+    "name": "51: RGBW RGBW S",
+    "dmxfootprint": 65
+   },
+   {
+    "name": "52: RGBAW RGBAW S",
+    "dmxfootprint": 81
+   },
+   {
+    "name": "53: DIM RGB DIM RGB S",
+    "dmxfootprint": 65
+   },
+   {
+    "name": "54: DIM RGBW DIM RGBW S",
+    "dmxfootprint": 81
+   },
+   {
+    "name": "55: DIM RGBAW RGBAW S",
+    "dmxfootprint": 97
+   },
+   {
+    "name": "56: RGB CCT DIM IND S",
+    "dmxfootprint": 97
+   },
+   {
+    "name": "57: RGBS RGBS",
+    "dmxfootprint": 64
+   },
+   {
+    "name": "58: RGB RGB SS",
+    "dmxfootprint": 64
+   },
+   {
+    "name": "59: RGBWS RGBWS",
+    "dmxfootprint": 80
+   },
+   {
+    "name": "60: RGBAWS RGBAWS",
+    "dmxfootprint": 96
+   },
+   {
+    "name": "61: DIM RGBS DIM RGBS",
+    "dmxfootprint": 80
+   },
+   {
+    "name": "62: DIM RGBWS DIM RGBWS",
+    "dmxfootprint": 96
+   },
+   {
+    "name": "63: DIM RGBAWS DIM RGBAWS",
+    "dmxfootprint": 112
+   },
+   {
+    "name": "64: RGB CCT DIM IND S",
+    "dmxfootprint": 112
+   },
+   {
+    "name": "65: RGB*RGB*",
+    "dmxfootprint": 31
+   },
+   {
+    "name": "66: RGB RGB",
+    "dmxfootprint": 24
+   },
+   {
+    "name": "67: RGBW RGBW",
+    "dmxfootprint": 32
+   },
+   {
+    "name": "68: RGBAW RGBAW",
+    "dmxfootprint": 40
+   },
+   {
+    "name": "69: DIM RGB DIM RGB",
+    "dmxfootprint": 32
+   },
+   {
+    "name": "70: DIM RGBW DIM RGBW",
+    "dmxfootprint": 40
+   },
+   {
+    "name": "71: DIM RGBAW DIM RGBAW",
+    "dmxfootprint": 48
+   },
+   {
+    "name": "72: RGB CCT DIM IND",
+    "dmxfootprint": 48
+   },
+   {
+    "name": "73: RGB*RGBS",
+    "dmxfootprint": 31
+   },
+   {
+    "name": "74: RGB RGB S",
+    "dmxfootprint": 25
+   },
+   {
+    "name": "75: RGBW RGBW S",
+    "dmxfootprint": 33
+   },
+   {
+    "name": "76: RGBAW RGBAW S",
+    "dmxfootprint": 41
+   },
+   {
+    "name": "77: DIM RGB DIM RGB S",
+    "dmxfootprint": 33
+   },
+   {
+    "name": "78: DIM RGBW DIM RGBW S",
+    "dmxfootprint": 41
+   },
+   {
+    "name": "79: DIM RGBAW RGBAW S",
+    "dmxfootprint": 49
+   },
+   {
+    "name": "80: RGB CCT DIM IND S",
+    "dmxfootprint": 49
+   },
+   {
+    "name": "81: RGBS RGBS",
+    "dmxfootprint": 32
+   },
+   {
+    "name": "82: RGB RGB SS ",
+    "dmxfootprint": 32
+   },
+   {
+    "name": "83: RGBWS RGBWS ",
+    "dmxfootprint": 40
+   },
+   {
+    "name": "84: RGBAWS RGBAWS",
+    "dmxfootprint": 48
+   },
+   {
+    "name": "85: DIM RGBS DIM RGBS",
+    "dmxfootprint": 40
+   },
+   {
+    "name": "86: DIM RGBWS DIM RGBWS",
+    "dmxfootprint": 48
+   },
+   {
+    "name": "87: DIM RGBAWS RGBAWS",
+    "dmxfootprint": 56
+   },
+   {
+    "name": "88: RGB CCT DIM IND S",
+    "dmxfootprint": 56
+   },
+   {
+    "name": "89: D CCT GM CRO RGB",
+    "dmxfootprint": 7
+   },
+   {
+    "name": "90: D CCT GM HUE SAT",
+    "dmxfootprint": 5
+   },
+   {
+    "name": "91: D16 CCT GM C RGB",
+    "dmxfootprint": 8
+   },
+   {
+    "name": "92: D16 CCT GM H SAT",
+    "dmxfootprint": 7
+   },
+   {
+    "name": "93: D16 X Y",
+    "dmxfootprint": 6
+   },
+   {
+    "name": "94: D CCT GM CRO RGB S",
+    "dmxfootprint": 8
+   },
+   {
+    "name": "95: D CCT GM HUE SAT S",
+    "dmxfootprint": 6
+   },
+   {
+    "name": "96: D16 CCT GM H SAT S",
+    "dmxfootprint": 8
+   },
+   {
+    "name": "97: D16 X Y S",
+    "dmxfootprint": 7
+   },
+   {
+    "name": "98: D CCT GM CRO RGB",
+    "dmxfootprint": 28
+   },
+   {
+    "name": "99: D CCT GM HUE SAT",
+    "dmxfootprint": 20
+   },
+   {
+    "name": "100: D16 CCT GM C RGB",
+    "dmxfootprint": 32
+   },
+   {
+    "name": "101: D16 CCT GM H SAT",
+    "dmxfootprint": 28
+   },
+   {
+    "name": "102: D16 X Y",
+    "dmxfootprint": 24
+   },
+   {
+    "name": "103: D CCT GM CRO RGB S",
+    "dmxfootprint": 29
+   },
+   {
+    "name": "104: D CCT GM HUE SAT S",
+    "dmxfootprint": 21
+   },
+   {
+    "name": "105: D16 CCT GM H SAT S",
+    "dmxfootprint": 29
+   },
+   {
+    "name": "106: D16 X Y S",
+    "dmxfootprint": 25
+   },
+   {
+    "name": "107: D CCT GM CRO RGB S ",
+    "dmxfootprint": 32
+   },
+   {
+    "name": "108: D CCT GM HUE SAT S",
+    "dmxfootprint": 24
+   },
+   {
+    "name": "109: D16 CCT GM H SAT S",
+    "dmxfootprint": 32
+   },
+   {
+    "name": "110: D16 X Y S",
+    "dmxfootprint": 28
+   },
+   {
+    "name": "111: D CCT GM CRO RGB",
+    "dmxfootprint": 112
+   },
+   {
+    "name": "112: D CCT GM HUE SAT",
+    "dmxfootprint": 80
+   },
+   {
+    "name": "113: D16 CCT GM C RGB",
+    "dmxfootprint": 128
+   },
+   {
+    "name": "114: D16 CCT GM H SAT",
+    "dmxfootprint": 112
+   },
+   {
+    "name": "115: D16 X Y",
+    "dmxfootprint": 96
+   },
+   {
+    "name": "116: D CCT GM CRO RGB S",
+    "dmxfootprint": 113
+   },
+   {
+    "name": "117: D CCT GM HUE SAT S",
+    "dmxfootprint": 81
+   },
+   {
+    "name": "118: D16 CCT GM H SAT S",
+    "dmxfootprint": 113
+   },
+   {
+    "name": "119: D16 X Y S",
+    "dmxfootprint": 97
+   },
+   {
+    "name": "120: D CCT GM CRO RGB S",
+    "dmxfootprint": 128
+   },
+   {
+    "name": "121: D CCT GM HUE SAT S ",
+    "dmxfootprint": 96
+   },
+   {
+    "name": "122: D16 CCT GM H SAT S ",
+    "dmxfootprint": 128
+   },
+   {
+    "name": "123: D16 X Y S",
+    "dmxfootprint": 112
+   },
+   {
+    "name": "124: D CCT GM CRO RGB",
+    "dmxfootprint": 56
+   },
+   {
+    "name": "125: D CCT GM HUE SAT",
+    "dmxfootprint": 40
+   },
+   {
+    "name": "126: D16 CCT GM C RGB",
+    "dmxfootprint": 64
+   },
+   {
+    "name": "127: D16 CCT GM H SAT",
+    "dmxfootprint": 56
+   },
+   {
+    "name": "128: D16 X Y",
+    "dmxfootprint": 48
+   },
+   {
+    "name": "129: D CCT GM CRO RGB S",
+    "dmxfootprint": 57
+   },
+   {
+    "name": "130: D CCT GM HUE SAT S",
+    "dmxfootprint": 41
+   },
+   {
+    "name": "131: D16 CCT GM H SAT S",
+    "dmxfootprint": 57
+   },
+   {
+    "name": "132: D16 X Y S",
+    "dmxfootprint": 49
+   },
+   {
+    "name": "133: D CCT GM CRO RGB S",
+    "dmxfootprint": 64
+   },
+   {
+    "name": "134: D CCT GM HUE SAT S",
+    "dmxfootprint": 48
+   },
+   {
+    "name": "135: D16 CCT GM H SAT S",
+    "dmxfootprint": 64
+   },
+   {
+    "name": "136: D16 X Y S",
+    "dmxfootprint": 56
+   },
+   {
+    "name": "137: D16 CCT GM C RGB S",
+    "dmxfootprint": 9
+   },
+   {
+    "name": "138: D16 CCT GM C RGB S",
+    "dmxfootprint": 33
+   },
+   {
+    "name": "139: D16 CCT GM C RGB S",
+    "dmxfootprint": 36
+   },
+   {
+    "name": "140: D16 CCT GM C RGB S",
+    "dmxfootprint": 129
+   },
+   {
+    "name": "141: D16 CCT GM C RGB S ",
+    "dmxfootprint": 144
+   },
+   {
+    "name": "142: D16 CCT GM C RGB S",
+    "dmxfootprint": 65
+   },
+   {
+    "name": "143: D16 CCT GM C RGB S",
+    "dmxfootprint": 72
+   },
+   {
+    "name": "168: D CCT GM C CRO XY",
+    "dmxfootprint": 8
+   },
+   {
+    "name": "169: D16 CCT GM C CRO XY ",
+    "dmxfootprint": 9
+   },
+   {
+    "name": "170: D CCT GM C CRO XY S",
+    "dmxfootprint": 9
+   },
+   {
+    "name": "171: D16 CCT GM C CRO XY S",
+    "dmxfootprint": 10
+   },
+   {
+    "name": "178: D CCT GM C CRO XY",
+    "dmxfootprint": 32
+   },
+   {
+    "name": "179: D16 CCT GM C CRO XY",
+    "dmxfootprint": 36
+   },
+   {
+    "name": "180: D CCT GM C CRO XY S",
+    "dmxfootprint": 33
+   },
+   {
+    "name": "181: D16 CCT GM C CRO XY S",
+    "dmxfootprint": 37
+   },
+   {
+    "name": "182: D CCT GM C CRO XY S",
+    "dmxfootprint": 36
+   },
+   {
+    "name": "183: D16 CCT GM C CRO XY S",
+    "dmxfootprint": 40
+   },
+   {
+    "name": "184: D CCT GM C CRO XY",
+    "dmxfootprint": 64
+   },
+   {
+    "name": "185: D16 CCT GM C CRO XY",
+    "dmxfootprint": 72
+   },
+   {
+    "name": "186: D CCT GM C CRO XY S",
+    "dmxfootprint": 65
+   },
+   {
+    "name": "187: D16 CCT GM C CRO XY S",
+    "dmxfootprint": 73
+   },
+   {
+    "name": "188: D CCT GM C CRO XY S",
+    "dmxfootprint": 72
+   },
+   {
+    "name": "189: D16 CCT GM C CRO XY S",
+    "dmxfootprint": 80
+   },
+   {
+    "name": "190: D CCT GM C CRO XY",
+    "dmxfootprint": 128
+   },
+   {
+    "name": "191: D16 CCT GM C CRO XY",
+    "dmxfootprint": 144
+   },
+   {
+    "name": "192: D CCT GM C CRO XY S",
+    "dmxfootprint": 129
+   },
+   {
+    "name": "193: D16 CCT GM C CRO XY S",
+    "dmxfootprint": 145
+   },
+   {
+    "name": "194: D CCT GM C CRO XY S",
+    "dmxfootprint": 144
+   },
+   {
+    "name": "195: D16 CCT GM C CRO XY S",
+    "dmxfootprint": 160
+   }
+  ],
+  "wanted": "Astera | AX1",
+  "category": "Wireless / Battery"
+ },
+ "Astera_LED_Technology_AX2-100_PixelBar_62992.gdtf": {
+  "rid": 62992,
+  "uuid": "0B8A2C53-BFE4-4A30-A7E2-87320CF6255A",
+  "manufacturer": "Astera LED Technology",
+  "fixture": "AX2-100 PixelBar",
+  "revision": "tested by Astera / V3",
+  "uploader": "Manuf.",
+  "version": "1.2",
+  "lastModified": 1792576904,
+  "filesize": 2475001,
+  "modes": [
+   {
+    "name": "1: RGB",
+    "dmxfootprint": 3
+   },
+   {
+    "name": "2: RGBW ",
+    "dmxfootprint": 4
+   },
+   {
+    "name": "3: RGBAW",
+    "dmxfootprint": 5
+   },
+   {
+    "name": "4: DIM RGB",
+    "dmxfootprint": 4
+   },
+   {
+    "name": "5: DIM RGBW",
+    "dmxfootprint": 5
+   },
+   {
+    "name": "6: DIM RGBAW",
+    "dmxfootprint": 6
+   },
+   {
+    "name": "7: RGB CCT DIM IND",
+    "dmxfootprint": 6
+   },
+   {
+    "name": "8: RGBS",
+    "dmxfootprint": 4
+   },
+   {
+    "name": "9: RGBWS",
+    "dmxfootprint": 5
+   },
+   {
+    "name": "10: RGBAWS",
+    "dmxfootprint": 6
+   },
+   {
+    "name": "11: DIM RGBS",
+    "dmxfootprint": 5
+   },
+   {
+    "name": "12: DIM RGBWS ",
+    "dmxfootprint": 6
+   },
+   {
+    "name": "13: DIM RGBAWS",
+    "dmxfootprint": 7
+   },
+   {
+    "name": "14: RGB CCT DIM IND S",
+    "dmxfootprint": 7
+   },
+   {
+    "name": "15: Effect Mode Fix",
+    "dmxfootprint": 13
+   },
+   {
+    "name": "16: Effect Mode RGB",
+    "dmxfootprint": 21
+   },
+   {
+    "name": "17: RGB*RGB*",
+    "dmxfootprint": 15
+   },
+   {
+    "name": "18: RGB RGB",
+    "dmxfootprint": 12
+   },
+   {
+    "name": "19: RGBW RGBW",
+    "dmxfootprint": 16
+   },
+   {
+    "name": "20: RGBAW RGBAW",
+    "dmxfootprint": 20
+   },
+   {
+    "name": "21: DIM RGB DIM RGB ",
+    "dmxfootprint": 16
+   },
+   {
+    "name": "22: DIM RGBW DIM RGBW",
+    "dmxfootprint": 20
+   },
+   {
+    "name": "23: DIM RGBAW DIM RGBAW ",
+    "dmxfootprint": 24
+   },
+   {
+    "name": "24: RGB CCT DIM IND ",
+    "dmxfootprint": 24
+   },
+   {
+    "name": "25: RGB*RGBS",
+    "dmxfootprint": 15
+   },
+   {
+    "name": "26: RGB RGB S",
+    "dmxfootprint": 13
+   },
+   {
+    "name": "27: RGBW RGBW S",
+    "dmxfootprint": 17
+   },
+   {
+    "name": "28: RGBAW RGBAW S",
+    "dmxfootprint": 21
+   },
+   {
+    "name": "29: DIM RGB DIM RGB S",
+    "dmxfootprint": 17
+   },
+   {
+    "name": "30: DIM RGBW DIM RGBW S",
+    "dmxfootprint": 21
+   },
+   {
+    "name": "31 DIM RGBAW RGBAW S",
+    "dmxfootprint": 25
+   },
+   {
+    "name": "32: RGB CCT DIM IND S",
+    "dmxfootprint": 25
+   },
+   {
+    "name": "33: RGBS RGBS",
+    "dmxfootprint": 16
+   },
+   {
+    "name": "34: RGB RGB SS ",
+    "dmxfootprint": 16
+   },
+   {
+    "name": "35: RGBWS RGBWS ",
+    "dmxfootprint": 20
+   },
+   {
+    "name": "36: RGBAWS RGBAWS",
+    "dmxfootprint": 24
+   },
+   {
+    "name": "37: DIM RGBS DIM RGBS",
+    "dmxfootprint": 20
+   },
+   {
+    "name": "38: DIM RGBWS DIM RGBWS",
+    "dmxfootprint": 24
+   },
+   {
+    "name": "39: DIM RGBAWS DIM RGBAWS",
+    "dmxfootprint": 28
+   },
+   {
+    "name": "40: RGB CCT DIM IND S",
+    "dmxfootprint": 28
+   },
+   {
+    "name": "41: RGB*RGB*",
+    "dmxfootprint": 63
+   },
+   {
+    "name": "42: RGB RGB",
+    "dmxfootprint": 48
+   },
+   {
+    "name": "43: RGBW RGBW",
+    "dmxfootprint": 64
+   },
+   {
+    "name": "44: RGBAW RGBAW",
+    "dmxfootprint": 80
+   },
+   {
+    "name": "45: DIM RGB DIM RGB",
+    "dmxfootprint": 64
+   },
+   {
+    "name": "46: DIM RGBW DIM RGBW",
+    "dmxfootprint": 80
+   },
+   {
+    "name": "47: DIM RGBAW DIM RGBAW",
+    "dmxfootprint": 96
+   },
+   {
+    "name": "48: RGB CCT DIM IND",
+    "dmxfootprint": 96
+   },
+   {
+    "name": "49: RGB*RGBS",
+    "dmxfootprint": 63
+   },
+   {
+    "name": "50: RGB*RGB S",
+    "dmxfootprint": 49
+   },
+   {
+    "name": "51: RGBW RGBW S",
+    "dmxfootprint": 65
+   },
+   {
+    "name": "52: RGBAW RGBAW S",
+    "dmxfootprint": 81
+   },
+   {
+    "name": "53: DIM RGB DIM RGB S",
+    "dmxfootprint": 65
+   },
+   {
+    "name": "54: DIM RGBW DIM RGBW S",
+    "dmxfootprint": 81
+   },
+   {
+    "name": "55: DIM RGBAW RGBAW S",
+    "dmxfootprint": 97
+   },
+   {
+    "name": "56: RGB CCT DIM IND S",
+    "dmxfootprint": 97
+   },
+   {
+    "name": "57: RGBS RGBS",
+    "dmxfootprint": 64
+   },
+   {
+    "name": "58: RGB RGB SS",
+    "dmxfootprint": 64
+   },
+   {
+    "name": "59: RGBWS RGBWS",
+    "dmxfootprint": 80
+   },
+   {
+    "name": "60: RGBAWS RGBAWS",
+    "dmxfootprint": 96
+   },
+   {
+    "name": "61: DIM RGBS DIM RGBS",
+    "dmxfootprint": 80
+   },
+   {
+    "name": "62: DIM RGBWS DIM RGBWS",
+    "dmxfootprint": 96
+   },
+   {
+    "name": "63: DIM RGBAWS DIM RGBAWS",
+    "dmxfootprint": 112
+   },
+   {
+    "name": "64: RGB CCT DIM IND S",
+    "dmxfootprint": 112
+   },
+   {
+    "name": "65: RGB*RGB*",
+    "dmxfootprint": 31
+   },
+   {
+    "name": "66: RGB RGB",
+    "dmxfootprint": 24
+   },
+   {
+    "name": "67: RGBW RGBW",
+    "dmxfootprint": 32
+   },
+   {
+    "name": "68: RGBAW RGBAW",
+    "dmxfootprint": 40
+   },
+   {
+    "name": "69: DIM RGB DIM RGB",
+    "dmxfootprint": 32
+   },
+   {
+    "name": "70: DIM RGBW DIM RGBW",
+    "dmxfootprint": 40
+   },
+   {
+    "name": "71: DIM RGBAW DIM RGBAW",
+    "dmxfootprint": 48
+   },
+   {
+    "name": "72: RGB CCT DIM IND",
+    "dmxfootprint": 48
+   },
+   {
+    "name": "73: RGB*RGBS",
+    "dmxfootprint": 31
+   },
+   {
+    "name": "74: RGB RGB S",
+    "dmxfootprint": 25
+   },
+   {
+    "name": "75: RGBW RGBW S",
+    "dmxfootprint": 33
+   },
+   {
+    "name": "76: RGBAW RGBAW S",
+    "dmxfootprint": 41
+   },
+   {
+    "name": "77: DIM RGB DIM RGB S",
+    "dmxfootprint": 33
+   },
+   {
+    "name": "78: DIM RGBW DIM RGBW S",
+    "dmxfootprint": 41
+   },
+   {
+    "name": "79: DIM RGBAW RGBAW S",
+    "dmxfootprint": 49
+   },
+   {
+    "name": "80: RGB CCT DIM IND S",
+    "dmxfootprint": 49
+   },
+   {
+    "name": "81: RGBS RGBS",
+    "dmxfootprint": 32
+   },
+   {
+    "name": "82: RGB RGB SS ",
+    "dmxfootprint": 32
+   },
+   {
+    "name": "83: RGBWS RGBWS ",
+    "dmxfootprint": 40
+   },
+   {
+    "name": "84: RGBAWS RGBAWS",
+    "dmxfootprint": 48
+   },
+   {
+    "name": "85: DIM RGBS DIM RGBS",
+    "dmxfootprint": 40
+   },
+   {
+    "name": "86: DIM RGBWS DIM RGBWS",
+    "dmxfootprint": 48
+   },
+   {
+    "name": "87: DIM RGBAWS RGBAWS",
+    "dmxfootprint": 56
+   },
+   {
+    "name": "88: RGB CCT DIM IND S",
+    "dmxfootprint": 56
+   },
+   {
+    "name": "89: D CCT GM CRO RGB",
+    "dmxfootprint": 7
+   },
+   {
+    "name": "90: D CCT GM HUE SAT",
+    "dmxfootprint": 5
+   },
+   {
+    "name": "91: D16 CCT GM C RGB",
+    "dmxfootprint": 8
+   },
+   {
+    "name": "92: D16 CCT GM H SAT",
+    "dmxfootprint": 7
+   },
+   {
+    "name": "93: D16 X Y",
+    "dmxfootprint": 6
+   },
+   {
+    "name": "94: D CCT GM CRO RGB S",
+    "dmxfootprint": 8
+   },
+   {
+    "name": "95: D CCT GM HUE SAT S",
+    "dmxfootprint": 6
+   },
+   {
+    "name": "96: D16 CCT GM H SAT S",
+    "dmxfootprint": 8
+   },
+   {
+    "name": "97: D16 X Y S",
+    "dmxfootprint": 7
+   },
+   {
+    "name": "98: D CCT GM CRO RGB",
+    "dmxfootprint": 28
+   },
+   {
+    "name": "99: D CCT GM HUE SAT",
+    "dmxfootprint": 20
+   },
+   {
+    "name": "100: D16 CCT GM C RGB",
+    "dmxfootprint": 32
+   },
+   {
+    "name": "101: D16 CCT GM H SAT",
+    "dmxfootprint": 28
+   },
+   {
+    "name": "102: D16 X Y",
+    "dmxfootprint": 24
+   },
+   {
+    "name": "103: D CCT GM CRO RGB S",
+    "dmxfootprint": 29
+   },
+   {
+    "name": "104: D CCT GM HUE SAT S",
+    "dmxfootprint": 21
+   },
+   {
+    "name": "105: D16 CCT GM H SAT S",
+    "dmxfootprint": 29
+   },
+   {
+    "name": "106: D16 X Y S",
+    "dmxfootprint": 25
+   },
+   {
+    "name": "107: D CCT GM CRO RGB S ",
+    "dmxfootprint": 32
+   },
+   {
+    "name": "108: D CCT GM HUE SAT S",
+    "dmxfootprint": 24
+   },
+   {
+    "name": "109: D16 CCT GM H SAT S",
+    "dmxfootprint": 32
+   },
+   {
+    "name": "110: D16 X Y S",
+    "dmxfootprint": 28
+   },
+   {
+    "name": "111: D CCT GM CRO RGB",
+    "dmxfootprint": 112
+   },
+   {
+    "name": "112: D CCT GM HUE SAT",
+    "dmxfootprint": 80
+   },
+   {
+    "name": "113: D16 CCT GM C RGB",
+    "dmxfootprint": 128
+   },
+   {
+    "name": "114: D16 CCT GM H SAT",
+    "dmxfootprint": 112
+   },
+   {
+    "name": "115: D16 X Y",
+    "dmxfootprint": 96
+   },
+   {
+    "name": "116: D CCT GM CRO RGB S",
+    "dmxfootprint": 113
+   },
+   {
+    "name": "117: D CCT GM HUE SAT S",
+    "dmxfootprint": 81
+   },
+   {
+    "name": "118: D16 CCT GM H SAT S",
+    "dmxfootprint": 113
+   },
+   {
+    "name": "119: D16 X Y S",
+    "dmxfootprint": 97
+   },
+   {
+    "name": "120: D CCT GM CRO RGB S",
+    "dmxfootprint": 128
+   },
+   {
+    "name": "121: D CCT GM HUE SAT S ",
+    "dmxfootprint": 96
+   },
+   {
+    "name": "122: D16 CCT GM H SAT S ",
+    "dmxfootprint": 128
+   },
+   {
+    "name": "123: D16 X Y S",
+    "dmxfootprint": 112
+   },
+   {
+    "name": "124: D CCT GM CRO RGB",
+    "dmxfootprint": 56
+   },
+   {
+    "name": "125: D CCT GM HUE SAT",
+    "dmxfootprint": 40
+   },
+   {
+    "name": "126: D16 CCT GM C RGB",
+    "dmxfootprint": 64
+   },
+   {
+    "name": "127: D16 CCT GM H SAT",
+    "dmxfootprint": 56
+   },
+   {
+    "name": "128: D16 X Y",
+    "dmxfootprint": 48
+   },
+   {
+    "name": "129: D CCT GM CRO RGB S",
+    "dmxfootprint": 57
+   },
+   {
+    "name": "130: D CCT GM HUE SAT S",
+    "dmxfootprint": 41
+   },
+   {
+    "name": "131: D16 CCT GM H SAT S",
+    "dmxfootprint": 57
+   },
+   {
+    "name": "132: D16 X Y S",
+    "dmxfootprint": 49
+   },
+   {
+    "name": "133: D CCT GM CRO RGB S",
+    "dmxfootprint": 64
+   },
+   {
+    "name": "134: D CCT GM HUE SAT S",
+    "dmxfootprint": 48
+   },
+   {
+    "name": "135: D16 CCT GM H SAT S",
+    "dmxfootprint": 64
+   },
+   {
+    "name": "136: D16 X Y S",
+    "dmxfootprint": 56
+   },
+   {
+    "name": "137: D16 CCT GM C RGB S",
+    "dmxfootprint": 9
+   },
+   {
+    "name": "138: D16 CCT GM C RGB S",
+    "dmxfootprint": 33
+   },
+   {
+    "name": "139: D16 CCT GM C RGB S",
+    "dmxfootprint": 36
+   },
+   {
+    "name": "140: D16 CCT GM C RGB S",
+    "dmxfootprint": 129
+   },
+   {
+    "name": "141: D16 CCT GM C RGB S ",
+    "dmxfootprint": 144
+   },
+   {
+    "name": "142: D16 CCT GM C RGB S",
+    "dmxfootprint": 65
+   },
+   {
+    "name": "143: D16 CCT GM C RGB S",
+    "dmxfootprint": 72
+   },
+   {
+    "name": "168: D CCT GM C CRO XY",
+    "dmxfootprint": 8
+   },
+   {
+    "name": "169: D16 CCT GM C CRO XY ",
+    "dmxfootprint": 9
+   },
+   {
+    "name": "170: D CCT GM C CRO XY S",
+    "dmxfootprint": 9
+   },
+   {
+    "name": "171: D16 CCT GM C CRO XY S",
+    "dmxfootprint": 10
+   },
+   {
+    "name": "178: D CCT GM C CRO XY",
+    "dmxfootprint": 32
+   },
+   {
+    "name": "179: D16 CCT GM C CRO XY",
+    "dmxfootprint": 36
+   },
+   {
+    "name": "180: D CCT GM C CRO XY S",
+    "dmxfootprint": 33
+   },
+   {
+    "name": "181: D16 CCT GM C CRO XY S",
+    "dmxfootprint": 37
+   },
+   {
+    "name": "182: D CCT GM C CRO XY S",
+    "dmxfootprint": 36
+   },
+   {
+    "name": "183: D16 CCT GM C CRO XY S",
+    "dmxfootprint": 40
+   },
+   {
+    "name": "184: D CCT GM C CRO XY",
+    "dmxfootprint": 64
+   },
+   {
+    "name": "185: D16 CCT GM C CRO XY",
+    "dmxfootprint": 72
+   },
+   {
+    "name": "186: D CCT GM C CRO XY S",
+    "dmxfootprint": 65
+   },
+   {
+    "name": "187: D16 CCT GM C CRO XY S",
+    "dmxfootprint": 73
+   },
+   {
+    "name": "188: D CCT GM C CRO XY S",
+    "dmxfootprint": 72
+   },
+   {
+    "name": "189: D16 CCT GM C CRO XY S",
+    "dmxfootprint": 80
+   },
+   {
+    "name": "190: D CCT GM C CRO XY",
+    "dmxfootprint": 128
+   },
+   {
+    "name": "191: D16 CCT GM C CRO XY",
+    "dmxfootprint": 144
+   },
+   {
+    "name": "192: D CCT GM C CRO XY S",
+    "dmxfootprint": 129
+   },
+   {
+    "name": "193: D16 CCT GM C CRO XY S",
+    "dmxfootprint": 145
+   },
+   {
+    "name": "194: D CCT GM C CRO XY S",
+    "dmxfootprint": 144
+   },
+   {
+    "name": "195: D16 CCT GM C CRO XY S",
+    "dmxfootprint": 160
+   }
+  ],
+  "wanted": "Astera | AX2",
+  "category": "Wireless / Battery"
+ },
+ "Astera_LED_Technology_AX3_14524.gdtf": {
+  "rid": 14524,
+  "uuid": "19D06EB0-2614-4CFC-9E8B-CF2C60D6B4C6",
+  "manufacturer": "Astera LED Technology",
+  "fixture": "AX3",
+  "revision": "V1.2",
+  "uploader": "User",
+  "version": "1.1",
+  "lastModified": 1769003169,
+  "filesize": 204189,
+  "modes": [
+   {
+    "name": "Mode 1 - 1Pix RGB Strob OFF",
+    "dmxfootprint": 3
+   },
+   {
+    "name": "Mode 2 - 1Pix RGBW Strob OFF",
+    "dmxfootprint": 4
+   },
+   {
+    "name": "Mode 8 - 1Pix RGBS",
+    "dmxfootprint": 4
+   },
+   {
+    "name": "Mode 9 - 1Pix RGBWS",
+    "dmxfootprint": 5
+   },
+   {
+    "name": "Mode 94 - 1Pix D CCT GM CRO RGB S",
+    "dmxfootprint": 8
+   }
+  ],
+  "wanted": "Astera | AX3",
+  "category": "Wireless / Battery"
+ },
+ "ASTERA_AX5_99076.gdtf": {
+  "rid": 99076,
+  "uuid": "5351E687-D331-4E0F-99FE-00741E0FA0B5",
+  "manufacturer": "ASTERA",
+  "fixture": "AX5",
+  "revision": "CREATED BY TOINE",
+  "uploader": "User",
+  "version": "1.2",
+  "lastModified": 1769003653,
+  "filesize": 24046,
+  "modes": [
+   {
+    "name": "MODE 89 : D CCT GM CRO RGB",
+    "dmxfootprint": 7
+   },
+   {
+    "name": "MODE 91 : D16 CCT GM C RGB",
+    "dmxfootprint": 8
+   },
+   {
+    "name": "MODE 94 : D CCT GM CRO RGB S",
+    "dmxfootprint": 8
+   },
+   {
+    "name": "MODE 137 : D16 CCT GM C RGB S",
+    "dmxfootprint": 9
+   }
+  ],
+  "wanted": "Astera | AX5",
+  "category": "Wireless / Battery"
+ },
+ "Astera_LED_Technology_AX9_PowerPAR_62996.gdtf": {
+  "rid": 62996,
+  "uuid": "BB8DEE4B-A7BA-4896-8247-E6164A4E949C",
+  "manufacturer": "Astera LED Technology",
+  "fixture": "AX9 PowerPAR",
+  "revision": "tested by Astera / V3",
+  "uploader": "Manuf.",
+  "version": "1.2",
+  "lastModified": 1778591616,
+  "filesize": 2386012,
+  "modes": [
+   {
+    "name": "1: RGB",
+    "dmxfootprint": 3
+   },
+   {
+    "name": "2: RGBW ",
+    "dmxfootprint": 4
+   },
+   {
+    "name": "3: RGBAW",
+    "dmxfootprint": 5
+   },
+   {
+    "name": "4: DIM RGB",
+    "dmxfootprint": 4
+   },
+   {
+    "name": "5: DIM RGBW",
+    "dmxfootprint": 5
+   },
+   {
+    "name": "6: DIM RGBAW",
+    "dmxfootprint": 6
+   },
+   {
+    "name": "7: RGB CCT DIM IND",
+    "dmxfootprint": 6
+   },
+   {
+    "name": "8: RGBS",
+    "dmxfootprint": 4
+   },
+   {
+    "name": "9: RGBWS",
+    "dmxfootprint": 5
+   },
+   {
+    "name": "10: RGBAWS",
+    "dmxfootprint": 6
+   },
+   {
+    "name": "11: DIM RGBS",
+    "dmxfootprint": 5
+   },
+   {
+    "name": "12: DIM RGBWS ",
+    "dmxfootprint": 6
+   },
+   {
+    "name": "13: DIM RGBAWS",
+    "dmxfootprint": 7
+   },
+   {
+    "name": "14: RGB CCT DIM IND S",
+    "dmxfootprint": 7
+   },
+   {
+    "name": "15: Effect Mode Fix",
+    "dmxfootprint": 13
+   },
+   {
+    "name": "16: Effect Mode RGB",
+    "dmxfootprint": 21
+   },
+   {
+    "name": "89: D CCT GM CRO RGB",
+    "dmxfootprint": 7
+   },
+   {
+    "name": "90: D CCT GM HUE SAT",
+    "dmxfootprint": 5
+   },
+   {
+    "name": "91: D16 CCT GM C RGB",
+    "dmxfootprint": 8
+   },
+   {
+    "name": "92: D16 CCT GM H SAT",
+    "dmxfootprint": 7
+   },
+   {
+    "name": "93: D16 X Y",
+    "dmxfootprint": 6
+   },
+   {
+    "name": "94: D CCT GM CRO RGB S",
+    "dmxfootprint": 8
+   },
+   {
+    "name": "95: D CCT GM HUE SAT S",
+    "dmxfootprint": 6
+   },
+   {
+    "name": "96: D16 CCT GM H SAT S",
+    "dmxfootprint": 8
+   },
+   {
+    "name": "97: D16 X Y S",
+    "dmxfootprint": 7
+   },
+   {
+    "name": "137: D16 CCT GM C RGB S",
+    "dmxfootprint": 9
+   },
+   {
+    "name": "168: D CCT GM C CRO XY",
+    "dmxfootprint": 8
+   },
+   {
+    "name": "169: D16 CCT GM C CRO XY ",
+    "dmxfootprint": 9
+   },
+   {
+    "name": "170: D CCT GM C CRO XY S",
+    "dmxfootprint": 9
+   },
+   {
+    "name": "171: D16 CCT GM C CRO XY S",
+    "dmxfootprint": 10
+   }
+  ],
+  "wanted": "Astera | AX9",
+  "category": "Wireless / Battery"
+ },
+ "Astera_LED_Technology_FP5_NYX_Bulb_63000.gdtf": {
+  "rid": 63000,
+  "uuid": "0145C91E-F7BC-413C-BFEB-00F82BFFE1D0",
+  "manufacturer": "Astera LED Technology",
+  "fixture": "FP5 NYX Bulb",
+  "revision": "tested by Astera / V3",
+  "uploader": "Manuf.",
+  "version": "1.2",
+  "lastModified": 1769003399,
+  "filesize": 612751,
+  "modes": [
+   {
+    "name": "1: RGB",
+    "dmxfootprint": 3
+   },
+   {
+    "name": "2: RGBW ",
+    "dmxfootprint": 4
+   },
+   {
+    "name": "3: RGBAW",
+    "dmxfootprint": 5
+   },
+   {
+    "name": "4: DIM RGB",
+    "dmxfootprint": 4
+   },
+   {
+    "name": "5: DIM RGBW",
+    "dmxfootprint": 5
+   },
+   {
+    "name": "6: DIM RGBAW",
+    "dmxfootprint": 6
+   },
+   {
+    "name": "7: RGB CCT DIM IND",
+    "dmxfootprint": 6
+   },
+   {
+    "name": "8: RGBS",
+    "dmxfootprint": 4
+   },
+   {
+    "name": "9: RGBWS",
+    "dmxfootprint": 5
+   },
+   {
+    "name": "10: RGBAWS",
+    "dmxfootprint": 6
+   },
+   {
+    "name": "11: DIM RGBS",
+    "dmxfootprint": 5
+   },
+   {
+    "name": "12: DIM RGBWS ",
+    "dmxfootprint": 6
+   },
+   {
+    "name": "13: DIM RGBAWS",
+    "dmxfootprint": 7
+   },
+   {
+    "name": "14: RGB CCT DIM IND S",
+    "dmxfootprint": 7
+   },
+   {
+    "name": "15: Effect Mode Fix",
+    "dmxfootprint": 13
+   },
+   {
+    "name": "16: Effect Mode RGB",
+    "dmxfootprint": 21
+   },
+   {
+    "name": "89: D CCT GM CRO RGB",
+    "dmxfootprint": 7
+   },
+   {
+    "name": "90: D CCT GM HUE SAT",
+    "dmxfootprint": 5
+   },
+   {
+    "name": "91: D16 CCT GM C RGB",
+    "dmxfootprint": 8
+   },
+   {
+    "name": "92: D16 CCT GM H SAT",
+    "dmxfootprint": 7
+   },
+   {
+    "name": "93: D16 X Y",
+    "dmxfootprint": 6
+   },
+   {
+    "name": "94: D CCT GM CRO RGB S",
+    "dmxfootprint": 8
+   },
+   {
+    "name": "95: D CCT GM HUE SAT S",
+    "dmxfootprint": 6
+   },
+   {
+    "name": "96: D16 CCT GM H SAT S",
+    "dmxfootprint": 8
+   },
+   {
+    "name": "97: D16 X Y S",
+    "dmxfootprint": 7
+   },
+   {
+    "name": "137: D16 CCT GM C RGB S",
+    "dmxfootprint": 9
+   },
+   {
+    "name": "168: D CCT GM C CRO XY",
+    "dmxfootprint": 8
+   },
+   {
+    "name": "169: D16 CCT GM C CRO XY ",
+    "dmxfootprint": 9
+   },
+   {
+    "name": "170: D CCT GM C CRO XY S",
+    "dmxfootprint": 9
+   },
+   {
+    "name": "171: D16 CCT GM C CRO XY S",
+    "dmxfootprint": 10
+   }
+  ],
+  "wanted": "Astera | NYX Bulb",
+  "category": "Wireless / Battery"
+ },
+ "ETC_ColorSource_Linear1_146407.gdtf": {
+  "rid": 146407,
+  "uuid": "26AD1DCB-FC56-4653-840E-20BE072E55DE",
+  "manufacturer": "ETC",
+  "fixture": "ColorSource Linear1",
+  "revision": "alpha",
+  "uploader": "User",
+  "version": "1.2",
+  "lastModified": 1785425644,
+  "filesize": 28050,
+  "modes": [
+   {
+    "name": "5ch Default",
+    "dmxfootprint": 5
+   },
+   {
+    "name": "RGB",
+    "dmxfootprint": 0
+   },
+   {
+    "name": "1ch",
+    "dmxfootprint": 1
+   },
+   {
+    "name": "Dir",
+    "dmxfootprint": 6
+   }
+  ],
+  "wanted": "ETC | ColorSource Linear1",
+  "category": "LED Wash / Bar / Strip"
+ },
+ "ETC_Colorsource_CYC_156560.gdtf": {
+  "rid": 156560,
+  "uuid": "8BB1613E-E476-420B-A13A-9FD6A188A7C9",
+  "manufacturer": "ETC",
+  "fixture": "Colorsource CYC",
+  "revision": "added 5ch - 1ch and 3ch(rgb)",
+  "uploader": "User",
+  "version": "1.2",
+  "lastModified": 1787261086,
+  "filesize": 187498,
+  "modes": [
+   {
+    "name": "Direct",
+    "dmxfootprint": 7
+   },
+   {
+    "name": "5ch",
+    "dmxfootprint": 5
+   },
+   {
+    "name": "1ch",
+    "dmxfootprint": 1
+   },
+   {
+    "name": "3ch(RGB",
+    "dmxfootprint": 3
+   }
+  ],
+  "wanted": "ETC | Colorsource CYC",
+  "category": "LED Wash / Bar / Strip"
+ },
+ "Martin_Professional_VDO_Sceptron_10_320mm_165968.gdtf": {
+  "rid": 165968,
+  "uuid": "552BFD65-5831-4736-95C4-06334C5B73AC",
+  "manufacturer": "Martin Professional",
+  "fixture": "VDO Sceptron 10 320mm",
+  "revision": "20261024",
+  "uploader": "Manuf.",
+  "version": "1.2",
+  "lastModified": 1792828873,
+  "filesize": 476832,
+  "modes": [
+   {
+    "name": "DMX_RGB",
+    "dmxfootprint": 3
+   },
+   {
+    "name": "DMX_Basic",
+    "dmxfootprint": 10
+   },
+   {
+    "name": "DMX_Segments",
+    "dmxfootprint": 13
+   },
+   {
+    "name": "DMX_Pixel",
+    "dmxfootprint": 103
+   },
+   {
+    "name": "P3_Intensity",
+    "dmxfootprint": 1
+   },
+   {
+    "name": "P3_RGB",
+    "dmxfootprint": 3
+   },
+   {
+    "name": "P3_Basic",
+    "dmxfootprint": 5
+   },
+   {
+    "name": "P3_Hybrid 1 Segment",
+    "dmxfootprint": 6
+   },
+   {
+    "name": "P3_Hybrid 2 Segments",
+    "dmxfootprint": 9
+   },
+   {
+    "name": "P3_Hybrid 4 Segments",
+    "dmxfootprint": 15
+   },
+   {
+    "name": "P3_Hybrid 8 Segments",
+    "dmxfootprint": 27
+   },
+   {
+    "name": "P3_Hybrid 16 Segments",
+    "dmxfootprint": 51
+   },
+   {
+    "name": "P3_Hybrid 32 Segments",
+    "dmxfootprint": 99
+   },
+   {
+    "name": "P3_PixelMap 1 Segment",
+    "dmxfootprint": 3
+   },
+   {
+    "name": "P3_PixelMap 2 Segments",
+    "dmxfootprint": 6
+   },
+   {
+    "name": "P3_PixelMap 4 Segments",
+    "dmxfootprint": 12
+   },
+   {
+    "name": "P3_PixelMap 8 Segments",
+    "dmxfootprint": 24
+   },
+   {
+    "name": "P3_PixelMap 16 Segments",
+    "dmxfootprint": 48
+   },
+   {
+    "name": "P3_PixelMap 32 Segments",
+    "dmxfootprint": 96
+   }
+  ],
+  "wanted": "Martin | VDO Sceptron",
+  "category": "LED Wash / Bar / Strip"
+ },
+ "Martin_Professional_VDO_Atomic_Dot_WRM_147868.gdtf": {
+  "rid": 147868,
+  "uuid": "B7C2B9D5-A9E9-4D94-AEC7-F88F426D1582",
+  "manufacturer": "Martin Professional",
+  "fixture": "VDO Atomic Dot WRM",
+  "revision": "20260621",
+  "uploader": "Manuf.",
+  "version": "1.2",
+  "lastModified": 1782041917,
+  "filesize": 895790,
+  "modes": [
+   {
+    "name": "1 Channel",
+    "dmxfootprint": 1
+   },
+   {
+    "name": "3 Channel",
+    "dmxfootprint": 3
+   },
+   {
+    "name": "4 Channel",
+    "dmxfootprint": 4
+   },
+   {
+    "name": "Basic",
+    "dmxfootprint": 19
+   },
+   {
+    "name": "Extended",
+    "dmxfootprint": 64
+   }
+  ],
+  "wanted": "Martin | VDO Atomic Dot WRM",
+  "category": "LED Wash / Bar / Strip"
+ },
+ "Showtec_Pixel_Bar_16_Q6_165157.gdtf": {
+  "rid": 165157,
+  "uuid": "B0ABB93A-7566-4EB6-B273-D75B7E155257",
+  "manufacturer": "Showtec",
+  "fixture": "Pixel Bar 16 Q6",
+  "revision": "ver01 not yet tested in RL",
+  "uploader": "User",
+  "version": "1.2",
+  "lastModified": 1792226126,
+  "filesize": 315735,
+  "modes": [
+   {
+    "name": "95 Ch",
+    "dmxfootprint": 95
+   },
+   {
+    "name": "8ch",
+    "dmxfootprint": 8
+   }
+  ],
+  "wanted": "Showtec | Pixel Bar",
+  "category": "LED Wash / Bar / Strip"
+ },
+ "Martin_Professional_Atomic_3000_LED_167756.gdtf": {
+  "rid": 167756,
+  "uuid": "BE2DC006-9CF1-4BAB-ADB8-993805D61063",
+  "manufacturer": "Martin Professional",
+  "fixture": "Atomic 3000 LED",
+  "revision": "rev138",
+  "uploader": "User",
+  "version": "1.2",
+  "lastModified": 1793735736,
+  "filesize": 421562,
+  "modes": [
+   {
+    "name": "4-Channel DMX Mode",
+    "dmxfootprint": 4
+   },
+   {
+    "name": "3-Channel DMX Mode",
+    "dmxfootprint": 3
+   },
+   {
+    "name": "Extended DMX Mode",
+    "dmxfootprint": 14
+   }
+  ],
+  "wanted": "Martin | Atomic 3000 LED",
+  "category": "Strobe / Blinder / Effect"
+ },
+ "GLP_JDC1_Vis_Only__66458.gdtf": {
+  "rid": 66458,
+  "uuid": "AB48EDB4-E6DA-4FB1-9692-D28354BF2984",
+  "manufacturer": "GLP",
+  "fixture": "JDC1 (Vis Only)",
+  "revision": "Geometry Optimized for Vis",
+  "uploader": "User",
+  "version": "1.2",
+  "lastModified": 1791578027,
+  "filesize": 1094158,
+  "modes": [
+   {
+    "name": "Mode 1 (Compressed)",
+    "dmxfootprint": 14
+   },
+   {
+    "name": "Mode 2 (Normal)",
+    "dmxfootprint": 23
+   },
+   {
+    "name": "Mode 3 (SPix)",
+    "dmxfootprint": 68
+   },
+   {
+    "name": "Mode 4 (SPix Pro)",
+    "dmxfootprint": 62
+   },
+   {
+    "name": "Mode 5 (1Pix Pro)",
+    "dmxfootprint": 17
+   },
+   {
+    "name": "Mode 6 (Easy)",
+    "dmxfootprint": 19
+   }
+  ],
+  "wanted": "GLP | JDC1",
+  "category": "Strobe / Blinder / Effect"
+ },
+ "GLP_JDC2_IP_91167.gdtf": {
+  "rid": 91167,
+  "uuid": "67F57842-A60F-4925-A6FB-B8C2EE0F1CAE",
+  "manufacturer": "GLP",
+  "fixture": "JDC2 IP",
+  "revision": "20250326_JDC2IP_byRG_prelimV2",
+  "uploader": "Manuf.",
+  "version": "1.2",
+  "lastModified": 1787328143,
+  "filesize": 1341249,
+  "modes": [
+   {
+    "name": "M1 - Dual Strobe",
+    "dmxfootprint": 24
+   },
+   {
+    "name": "M2 - Segment 1-1",
+    "dmxfootprint": 46
+   },
+   {
+    "name": "M3 - Segment 12-12",
+    "dmxfootprint": 91
+   },
+   {
+    "name": "M4 - Segment 12-24 (DEFAULT)",
+    "dmxfootprint": 127
+   },
+   {
+    "name": "M5 - JDC1 Spix Patch",
+    "dmxfootprint": 68
+   }
+  ],
+  "wanted": "GLP | JDC2",
+  "category": "Strobe / Blinder / Effect"
+ },
+ "Robe_Lighting_Robin_Tarrantula_119741.gdtf": {
+  "rid": 119741,
+  "uuid": "2FAF8A74-1CDD-4894-817F-79FD093C6128",
+  "manufacturer": "Robe Lighting",
+  "fixture": "Robin Tarrantula",
+  "revision": "2025-12-03  Reupload to share",
+  "uploader": "Manuf.",
+  "version": "1.2",
+  "lastModified": 1769003800,
+  "filesize": 1651662,
+  "modes": [
+   {
+    "name": "Mode 6-Pattern full RGBW",
+    "dmxfootprint": 196
+   },
+   {
+    "name": "Mode 5-Pattern full RGB",
+    "dmxfootprint": 159
+   },
+   {
+    "name": "Mode 4-Pixel RGBW",
+    "dmxfootprint": 183
+   },
+   {
+    "name": "Mode 3-Pixel RGB",
+    "dmxfootprint": 146
+   },
+   {
+    "name": "Mode 2-Pattern",
+    "dmxfootprint": 48
+   },
+   {
+    "name": "Mode 1-Wash",
+    "dmxfootprint": 28
+   }
+  ],
+  "wanted": "Robe | Tarrantula",
+  "category": "Strobe / Blinder / Effect"
+ },
+ "Chauvet_Strike_4_26655.gdtf": {
+  "rid": 26655,
+  "uuid": "6305A89B-C249-4541-96F2-0EF2E7071E01",
+  "manufacturer": "Chauvet",
+  "fixture": "Strike 4",
+  "revision": "Final 1.0",
+  "uploader": "User",
+  "version": "1.2",
+  "lastModified": 1793149297,
+  "filesize": 187641,
+  "modes": [
+   {
+    "name": "9CH",
+    "dmxfootprint": 9
+   }
+  ],
+  "wanted": "Chauvet | Strike 4",
+  "category": "Strobe / Blinder / Effect"
+ },
+ "ETC_ETC_Desire_D40_Studio_HD_100739.gdtf": {
+  "rid": 100739,
+  "uuid": "B5DBC987-E525-4642-ADAB-FDA430AEA3A0",
+  "manufacturer": "ETC",
+  "fixture": "ETC Desire D40 Studio HD",
+  "revision": "Add Direct Mode",
+  "uploader": "User",
+  "version": "1.2",
+  "lastModified": 1769003666,
+  "filesize": 101205,
+  "modes": [
+   {
+    "name": "Standard mode",
+    "dmxfootprint": 3
+   },
+   {
+    "name": "HSIC",
+    "dmxfootprint": 6
+   },
+   {
+    "name": "Direct",
+    "dmxfootprint": 9
+   }
+  ],
+  "wanted": "ETC | Desire D40",
+  "category": "Strobe / Blinder / Effect"
+ },
+ "Showtec_Sunstrip_Active_MKII_75836.gdtf": {
+  "rid": 75836,
+  "uuid": "6554BE22-FCA1-4F99-9B00-0599B11773A0",
+  "manufacturer": "Showtec",
+  "fixture": "Sunstrip Active MKII",
+  "revision": "Sub-Fixture profile with vDim",
+  "uploader": "User",
+  "version": "1.2",
+  "lastModified": 1791239046,
+  "filesize": 27101,
+  "modes": [
+   {
+    "name": "Mode 1 - 1ch",
+    "dmxfootprint": 0
+   },
+   {
+    "name": "Mode 2 - 2ch",
+    "dmxfootprint": 2
+   },
+   {
+    "name": "Mode 3 - 5ch",
+    "dmxfootprint": 5
+   },
+   {
+    "name": "Mode 4 - 10ch",
+    "dmxfootprint": 10
+   }
+  ],
+  "wanted": "Showtec | Sunstrip Active",
+  "category": "Strobe / Blinder / Effect"
+ },
+ "Ape_Labs_ApeLight_maxi_850.gdtf": {
+  "rid": 850,
+  "uuid": "584840C3-D4BE-40BF-BC08-7A3925028586",
+  "manufacturer": "Ape Labs",
+  "fixture": "ApeLight maxi",
+  "revision": "Updated beam radius",
+  "uploader": "User",
+  "version": "1.0",
+  "lastModified": 1776339480,
+  "filesize": 512160,
+  "modes": [
+   {
+    "name": "4 Channel",
+    "dmxfootprint": 5
+   },
+   {
+    "name": "8 Channel",
+    "dmxfootprint": 8
+   }
+  ],
+  "wanted": "Ape Labs | ApeLight maxi",
+  "category": "Wireless / Battery"
+ },
+ "Ape_Labs_ApeLight_mini_1265.gdtf": {
+  "rid": 1265,
+  "uuid": "68BA7F5F-9F96-4A84-87D8-D1D5D3DF3528",
+  "manufacturer": "Ape Labs",
+  "fixture": "ApeLight mini",
+  "revision": "Added spectral information",
+  "uploader": "User",
+  "version": "1.0",
+  "lastModified": 1769003146,
+  "filesize": 745027,
+  "modes": [
+   {
+    "name": "4 Channel",
+    "dmxfootprint": 5
+   },
+   {
+    "name": "8 Channel",
+    "dmxfootprint": 8
+   }
+  ],
+  "wanted": "Ape Labs | ApeLight mini",
+  "category": "Wireless / Battery"
+ },
+ "ETC_ColorSource_Spot_119879.gdtf": {
+  "rid": 119879,
+  "uuid": "0BB5B0B7-B66D-486E-A88D-008C7676DCD1",
+  "manufacturer": "ETC",
+  "fixture": "ColorSource Spot",
+  "revision": "Colorsource Spot",
+  "uploader": "User",
+  "version": "1.2",
+  "lastModified": 1769003801,
+  "filesize": 99637,
+  "modes": [
+   {
+    "name": "Direct",
+    "dmxfootprint": 5
+   }
+  ],
+  "wanted": "ETC | ColorSource Spot",
+  "category": "Other Theatre"
+ },
+ "ETC_ColorSource_Spot_Jr_160883.gdtf": {
+  "rid": 160883,
+  "uuid": "49B4B6D7-567C-417F-A969-6696BA8D5D1D",
+  "manufacturer": "ETC",
+  "fixture": "ColorSource Spot Jr",
+  "revision": "Intensity-Grandmaster-All-Profiles",
+  "uploader": "User",
+  "version": "1.2",
+  "lastModified": 1789677385,
+  "filesize": 584977,
+  "modes": [
+   {
+    "name": "5ch",
+    "dmxfootprint": 5
+   },
+   {
+    "name": "RGB",
+    "dmxfootprint": 3
+   },
+   {
+    "name": "1ch",
+    "dmxfootprint": 1
+   },
+   {
+    "name": "Direct",
+    "dmxfootprint": 6
+   }
+  ],
+  "wanted": "ETC | ColorSource Spot Jr",
+  "category": "Other Theatre"
+ },
+ "Ape_Labs_ApeCoin_132971.gdtf": {
+  "rid": 132971,
+  "uuid": "0CE9E467-3E07-4EDC-9F4A-265F334DCEEB",
+  "manufacturer": "Ape Labs",
+  "fixture": "ApeCoin",
+  "revision": "Apecoin",
+  "uploader": "User",
+  "version": "1.2",
+  "lastModified": 1773167314,
+  "filesize": 432913,
+  "modes": [
+   {
+    "name": "4 Channel",
+    "dmxfootprint": 4
+   },
+   {
+    "name": "8 Channel",
+    "dmxfootprint": 8
+   }
+  ],
+  "wanted": "Ape Labs | ApeCoin",
+  "category": "Wireless / Battery"
+ },
+ "Ape_Labs_ApeStick_4_898.gdtf": {
+  "rid": 898,
+  "uuid": "906CD8B7-1326-4CDD-A5F7-F3B9801BD861",
+  "manufacturer": "Ape Labs",
+  "fixture": "ApeStick 4",
+  "revision": "Added emitter data",
+  "uploader": "User",
+  "version": "1.0",
+  "lastModified": 1769003145,
+  "filesize": 314819,
+  "modes": [
+   {
+    "name": "4 Channel",
+    "dmxfootprint": 4
+   },
+   {
+    "name": "8 Channel",
+    "dmxfootprint": 8
+   },
+   {
+    "name": "3 Channel",
+    "dmxfootprint": 3
+   }
+  ],
+  "wanted": "Ape Labs | ApeStick 4",
+  "category": "Wireless / Battery"
+ },
+ "Ape_Labs_LightCan_145186.gdtf": {
+  "rid": 145186,
+  "uuid": "8528F079-D07E-4AB2-807A-A5203397C8C2",
+  "manufacturer": "Ape Labs",
+  "fixture": "LightCan",
+  "revision": "Ape Labs Lightcan",
+  "uploader": "User",
+  "version": "1.2",
+  "lastModified": 1780417069,
+  "filesize": 23900,
+  "modes": [
+   {
+    "name": "Standard mode",
+    "dmxfootprint": 7
+   }
+  ],
+  "wanted": "Ape Labs | LightCan",
+  "category": "Wireless / Battery"
+ },
+ "Ape_Labs_Mini_v2_147890.gdtf": {
+  "rid": 147890,
+  "uuid": "2EDF6BA7-7145-47B1-AEDF-CBF0D5261748",
+  "manufacturer": "Ape Labs",
+  "fixture": "Mini v2",
+  "revision": "Apelabs",
+  "uploader": "User",
+  "version": "1.2",
+  "lastModified": 1782060733,
+  "filesize": 499104,
+  "modes": [
+   {
+    "name": "7 CH",
+    "dmxfootprint": 7
+   }
+  ],
+  "wanted": "Ape Labs | Mini v2",
+  "category": "Wireless / Battery"
+ },
+ "Ape_Labs_Mini_v2_Tube_123473.gdtf": {
+  "rid": 123473,
+  "uuid": "72FE04E3-098A-4EC9-89A4-A030EE2A2A2A",
+  "manufacturer": "Ape Labs",
+  "fixture": "Mini v2 Tube",
+  "revision": "v1.1",
+  "uploader": "User",
+  "version": "1.2",
+  "lastModified": 1778277365,
+  "filesize": 62375,
+  "modes": [
+   {
+    "name": "7 CH",
+    "dmxfootprint": 7
+   }
+  ],
+  "wanted": "Ape Labs | Mini v2 Tube",
+  "category": "Wireless / Battery"
+ },
+ "Ape_Labs_MARVEL_Flood_124992.gdtf": {
+  "rid": 124992,
+  "uuid": "42C3895A-AF6D-47EF-8019-B7CE9C8AB558",
+  "manufacturer": "Ape Labs",
+  "fixture": "MARVEL Flood",
+  "revision": "Initial release",
+  "uploader": "Manuf.",
+  "version": "1.2",
+  "lastModified": 1769003852,
+  "filesize": 205169,
+  "modes": [
+   {
+    "name": "1 Pixel (8 bit)",
+    "dmxfootprint": 6
+   },
+   {
+    "name": "1 Pixel (16 bit)",
+    "dmxfootprint": 12
+   },
+   {
+    "name": "Ape Labs Mode",
+    "dmxfootprint": 7
+   },
+   {
+    "name": "9 Pixel RGBW",
+    "dmxfootprint": 36
+   },
+   {
+    "name": "9 Pixel RGBWCWL",
+    "dmxfootprint": 54
+   }
+  ],
+  "wanted": "Ape Labs | MARVEL Flood",
+  "category": "Wireless / Battery"
+ },
+ "Ape_Labs_MARVEL_Spot_124636.gdtf": {
+  "rid": 124636,
+  "uuid": "03787B8F-0A86-451F-967A-97FB08CCD2D3",
+  "manufacturer": "Ape Labs",
+  "fixture": "MARVEL Spot",
+  "revision": "Initial release Spot",
+  "uploader": "Manuf.",
+  "version": "1.2",
+  "lastModified": 1769003849,
+  "filesize": 212614,
+  "modes": [
+   {
+    "name": "1 Pixel (8 bit)",
+    "dmxfootprint": 6
+   },
+   {
+    "name": "1 Pixel (16 bit)",
+    "dmxfootprint": 12
+   },
+   {
+    "name": "Ape Labs Mode",
+    "dmxfootprint": 7
+   },
+   {
+    "name": "9 Pixel RGBW",
+    "dmxfootprint": 36
+   },
+   {
+    "name": "9 Pixel RGBWCWL",
+    "dmxfootprint": 54
+   }
+  ],
+  "wanted": "Ape Labs | MARVEL Spot",
+  "category": "Wireless / Battery"
+ },
+ "Ape_Labs_Neon_Tube_125005.gdtf": {
+  "rid": 125005,
+  "uuid": "CC9E32D7-7827-44DF-8E33-9E566892B0C2",
+  "manufacturer": "Ape Labs",
+  "fixture": "Neon Tube",
+  "revision": "Inital release",
+  "uploader": "Manuf.",
+  "version": "1.2",
+  "lastModified": 1769003852,
+  "filesize": 53641,
+  "modes": [
+   {
+    "name": "RGBW (8 bit)",
+    "dmxfootprint": 4
+   },
+   {
+    "name": "RGBW (16 bit)",
+    "dmxfootprint": 8
+   },
+   {
+    "name": "Ape Labs Mode",
+    "dmxfootprint": 7
+   }
+  ],
+  "wanted": "Ape Labs | Neon Tube",
+  "category": "Wireless / Battery"
+ },
+ "Ape_Labs_Neon_Tube_PIX_124988.gdtf": {
+  "rid": 124988,
+  "uuid": "4CFF8283-85DA-443C-A19B-C9C802AEB922",
+  "manufacturer": "Ape Labs",
+  "fixture": "Neon Tube PIX",
+  "revision": "Initial release",
+  "uploader": "Manuf.",
+  "version": "1.2",
+  "lastModified": 1769003852,
+  "filesize": 267991,
+  "modes": [
+   {
+    "name": "32 Pixel",
+    "dmxfootprint": 128
+   },
+   {
+    "name": "8 Pixel",
+    "dmxfootprint": 32
+   },
+   {
+    "name": "1 Pixel",
+    "dmxfootprint": 4
+   },
+   {
+    "name": "Ape Labs Mode",
+    "dmxfootprint": 7
+   }
+  ],
+  "wanted": "Ape Labs | Neon Tube PIX",
+  "category": "Wireless / Battery"
+ }
+}
